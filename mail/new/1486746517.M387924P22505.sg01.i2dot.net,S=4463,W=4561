@@ -1,0 +1,98 @@
+Return-Path: <no-reply@eurosky.com>
+Delivered-To: arctoysc@sg01.i2dot.net
+Received: from sg01.i2dot.net
+	by sg01.i2dot.net (Dovecot) with LMTP id r0nYFpXznVjpVwAAzvUXQg
+	for <arctoysc@sg01.i2dot.net>; Sat, 11 Feb 2017 00:08:37 +0700
+Return-path: <no-reply@eurosky.com>
+Envelope-to: contact@arctoys.com
+Delivery-date: Sat, 11 Feb 2017 00:08:37 +0700
+Received: from [79.143.111.193] (port=64644 helo=hello.79.143.111.193.com)
+	by sg01.i2dot.net with esmtp (Exim 4.88)
+	(envelope-from <no-reply@eurosky.com>)
+	id 1ccEgM-0005rS-1M
+	for contact@arctoys.com; Sat, 11 Feb 2017 00:08:37 +0700
+From: "Tim Mathey" <no-reply@eurosky.com>
+To: "contact" <contact@arctoys.com>
+Content-Type: multipart/alternative; boundary="8Q3rkqTX4EQOk9bgm=_5i2MBrtXYuIvsty"
+MIME-Version: 1.0
+Date: Fri, 10 Feb 2017 18:08:13 +0100
+X-Spam-Status: Yes, score=19.7
+X-Spam-Score: 197
+X-Spam-Bar: +++++++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "sg01.i2dot.net",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  ePochta Mailer Email TemplateGet European Citizenship and
+   Passport legally and quickly! Details: www.taxresidence.info Reply ONLY by
+    feedback form on our web-site. ePochta Mailer Email Template Get European
+    Citizenship and Passport legally and quickly! Details: www.taxresidence.info
+    [...] 
+ 
+ Content analysis details:   (19.7 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: taxresidence.info]
+  4.6 RCVD_IN_BRBL_LASTEXT   RBL: No description available.
+                             [79.143.111.193 listed in bb.barracudacentral.org]
+  1.9 URIBL_ABUSE_SURBL      Contains an URL listed in the ABUSE SURBL blocklist
+                             [URIs: taxresidence.info]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  2.4 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+                             above 50%
+                             [cf: 100]
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  1.6 MISSING_MID            Missing Message-Id: header
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.8 KAM_INFOUSMEBIZ        Prevalent use of .info|.us|.me|.me.uk|.biz domains in
+                              spam/malware
+  3.2 HELO_DYNAMIC_IPADDR    Relay HELO'd using suspicious hostname (IP addr
+                             1)
+X-Spam-Flag: YES
+Subject:  ***SPAM***  =?utf-8?B?U2Vjb25kIFBhc3Nwb3J0IOKAkyBFdXJvcGVhbiBDaXRpemVuc2hpcC4=?=
+
+This is a multi-part message in MIME format
+
+--8Q3rkqTX4EQOk9bgm=_5i2MBrtXYuIvsty
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+ePochta Mailer Email TemplateGet European Citizenship and Passport leg=
+ally and quickly!
+Details: www.taxresidence.info
+Reply ONLY by feedback form on our web-site.
+
+
+--8Q3rkqTX4EQOk9bgm=_5i2MBrtXYuIvsty
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<HTML lang=3Den><HEAD><TITLE>ePochta Mailer Email Template</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindow=
+s-1251">
+<META content=3Dinitial-scale=3D1.0 name=3Dviewport></HEAD>
+<BODY style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: =
+3px; MARGIN: 0px; PADDING-TOP: 3px; FONT-FAMILY: Helvetica, Arial, san=
+s-serif" leftMargin=3D0 topMargin=3D0 marginheight=3D"0" marginwidth=3D=
+"0">
+<P>Get European Citizenship and Passport legally and quickly!<BR>Detai=
+ls: <A href=3D"http://www.taxresidence.info">www.taxresidence.info</A>=
+</P>
+<P>Reply ONLY by feedback form on our web-site.</P></BODY></HTML>
+
+
+--8Q3rkqTX4EQOk9bgm=_5i2MBrtXYuIvsty--
+

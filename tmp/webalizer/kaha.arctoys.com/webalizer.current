@@ -1,0 +1,346 @@
+# Webalizer V2.23-05 Incremental Data - 02/24/2017 21:42:03
+2017 2 24 21 42 3
+358 336 23 56 9 15 11908149 36 28 0
+1 1 102 1 24
+5 3 3175 1 2 1
+0 0 0 0 0 0
+2 1 1502 1 1 1
+1 0 1148 1 0 0
+6 4 3529 3 3 2
+7 5 3883 4 4 4
+4 3 2027 2 2 2
+172 160 5994353 8 17 11
+2 2 7996 2 1 1
+3 3 8166 2 1 1
+0 0 0 0 0 0
+2 2 194 1 0 0
+51 51 1965689 2 2 2
+51 50 1734353 2 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 224464 1 0 0
+0 0 0 0 0 0
+50 50 1957647 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 23 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 8045 1
+0 0 0 0
+0 0 0 0
+3 2 1856 2
+0 0 0 0
+0 0 0 0
+1 1 7972 1
+4 3 1696 2
+0 0 0 0
+5 3 3175 2
+53 52 1959317 2
+1 0 0 1
+10 6 5385 5
+2 1 354 2
+154 153 5980522 7
+99 99 3690831 2
+0 0 0 0
+2 2 194 0
+1 1 354 1
+2 1 225612 0
+4 3 9498 2
+11 4 11471 5
+5 4 1867 1
+0 0 0 0
+0
+0
+0
+336
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+19
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+# -urls- 
+/assets/datatables/media/js/jquery.dataTables.min.js
+0 6 7521410704212327017 197904 0 0
+/assets/kaha/css/animate.css
+0 6 0 38190 0 0
+/assets/44c8f248/js/select2-krajee.js
+0 6 0 11520 0 0
+/assets/kaha/images/Lion-Air.png
+0 6 0 292032 0 0
+/assets/kaha/js/sticky.js
+0 6 0 3936 0 0
+/assets/kaha/js/jquery.waypoints.min.js
+0 6 0 18132 0 0
+/assets/kaha/fonts/icomoon/icomoon.ttf
+0 6 0 1346784 0 0
+/assets/kaha/js/selectFx.js
+0 6 0 18348 0 0
+/assets/kaha/js/hoverIntent.js
+0 6 0 10500 0 0
+/assets/681ef986/yii.js
+0 6 0 33882 0 0
+/assets/kaha/images/Garuda-Indonesia.png
+0 6 0 819720 0 0
+/assets/a992aae0/fonts/glyphicons-halflings-regular.woff
+0 4 0 93696 0 0
+/assets/kaha/js/modernizr-2.6.2.min.js
+0 6 0 40482 0 0
+/assets/44c8f248/css/select2-addl.css
+0 6 0 2838 0 0
+/assets/75e5ac3/css/kv-widgets.css
+0 6 0 2800 0 0
+/assets/kaha/css/superfish.css
+0 6 0 6276 0 0
+/assets/kaha/js/classie.js
+0 6 0 4404 0 0
+/favicon.ico
+0 2 0 2812 0 0
+/assets/44c8f248/css/loading.gif
+0 1 0 1737 0 0
+/assets/kaha/js/main.js
+0 6 0 7788 0 0
+/assets/kaha/images/Citilink.png
+0 6 0 1330428 0 0
+/assets/kaha/css/cs-select.css
+0 6 0 4608 0 0
+/assets/kaha/css/style.css
+0 6 0 52044 0 0
+/_autoindex/icons/blank.png
+0 8 0 1197 0 0
+/assets/44c8f248/css/select2.css
+0 6 0 17670 0 0
+/assets/kaha/js/magnific-popup-options.js
+0 6 3617004256856440832 3882 0 0
+/assets/kaha/js/bootstrap-datepicker.min.js
+0 6 22685 65370 0 0
+/assets/6d485bd5/js/datepicker-kv.js
+0 6 8286623314361712640 4224 0 0
+/assets/kaha/fonts/bootstrap/glyphicons-halflings-regular.woff2
+0 2 0 36056 0 0
+/assets/6d485bd5/css/datepicker-kv.css
+0 6 0 3708 0 0
+/assets/b505fac0/jquery.js
+0 6 0 560202 0 0
+/assets/44c8f248/js/select2.full.js
+0 6 0 260904 0 0
+/css/site.css
+0 6 0 4620 0 0
+/assets/6d485bd5/css/bootstrap-datepicker3.css
+0 6 0 38850 0 0
+/assets/kaha/js/jquery.magnific-popup.min.js
+0 6 0 51156 0 0
+/assets/a992aae0/js/bootstrap.js
+0 6 0 111372 0 0
+/assets/kaha/css/bootstrap-datepicker.min.css
+0 6 0 14772 0 0
+/assets/kaha/css/cs-skin-border.css
+0 6 0 3690 0 0
+/assets/kaha/css/magnific-popup.css
+0 6 0 13698 0 0
+/
+0 28 0 101404 26 8
+/assets/kaha/js/jquery.easing.1.3.js
+0 6 0 13122 0 0
+/assets/kaha/images/Batik-Air.png
+0 6 0 642300 0 0
+/assets/kaha/images/kaha1.jpg
+0 6 0 3560832 0 0
+/assets/kaha/images/bg.jpg
+0 6 0 1288554 0 0
+/assets/kaha/fonts/bootstrap/glyphicons-halflings-regular.woff
+0 4 0 93696 0 0
+/assets/kaha/js/superfish.js
+0 6 0 15462 0 0
+/assets/6d485bd5/js/bootstrap-datepicker.js
+0 6 0 107964 0 0
+/assets/datatables/media/css/jquery.dataTables.min.css
+0 6 0 14346 0 0
+/assets/75e5ac3/img/loading-plugin.gif
+0 6 0 5082 0 0
+/assets/75e5ac3/js/kv-widgets.js
+0 6 0 3264 0 0
+/assets/kaha/js/jquery.stellar.min.js
+0 6 0 23592 0 0
+/assets/kaha/css/bootstrap.css
+0 6 0 174168 0 0
+/robots.txt
+0 5 0 115 0 0
+/assets/44c8f248/css/select2-krajee.css
+0 6 0 22230 0 0
+/assets/44c8f248/css/search.png
+0 1 0 269 0 0
+/assets/a992aae0/css/bootstrap.css
+0 6 0 287705 0 0
+# End Of Table - urls
+# -sites- (monthly)
+210.57.215.238
+0 5 3 3175 1 1485942673
+/
+broadband-188-255-59-142.moscow.rt.ru
+0 2 2 525 1 1486452053
+/
+spider-141-8-142-141.yandex.com
+0 1 1 354 1 1486407243
+/
+36.76.118.17
+0 3 2 1673 1 1486419308
+/
+114.125.82.224
+0 49 49 1733182 1 1487086234
+/
+202.80.217.161
+0 10 3 11448 1 1486589247
+-
+spider-130-193-50-27.yandex.com
+0 1 1 354 1 1486305077
+/
+ip-84-12.infokom.net
+0 51 50 2068628 2 1486563143
+/
+ip-95-221-203-16.bb.netbynet.ru
+0 1 1 354 1 1486525279
+/
+114.125.79.243
+0 50 50 1957649 1 1486566984
+/
+spider-93-158-152-48.yandex.com
+0 1 0 1148 0 0
+-
+fm-dyn-139-228-86-21.fast.net.id
+0 4 3 2027 1 1486298730
+/
+114.125.80.161
+0 50 50 1957647 1 1487601540
+/
+114.125.84.143
+0 50 50 1957644 1 1486981502
+/
+spider-93-158-152-40.yandex.com
+0 1 0 0 1 1486559976
+/
+114.125.85.70
+0 1 1 224464 0 0
+-
+spider-5-255-253-44.yandex.com
+0 1 1 23 0 0
+-
+spider-141-8-142-180.yandex.com
+0 1 1 354 1 1486388639
+/
+210.57.215.114
+0 56 54 1946799 3 1486563194
+/
+149.154.167.163
+0 1 1 7973 1 1486563163
+/
+customer.tigerbackbone.com
+0 1 1 7972 1 1486707893
+/
+spider-93-158-152-61.yandex.com
+0 17 11 16783 6 1487056055
+-
+spider-5-255-253-40.yandex.com
+0 1 1 7973 1 1486672059
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+spider-93-158-152-61.yandex.com
+0 1 1 23 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://kaha.arctoys.com/assets/75e5ac3/css/kv-widgets.css
+0 2
+http://kaha.arctoys.com/assets/kaha/css/bootstrap.css
+0 2
+- (Direct Request)
+0 46
+http://kaha.arctoys.com/assets/kaha/css/cs-skin-border.css
+0 2
+http://kaha.arctoys.com/assets/44c8f248/css/select2-krajee.css
+0 2
+http://l.facebook.com/l.php
+0 1
+http://kaha.arctoys.com/
+0 299
+http://kaha.arctoys.com/assets/kaha/css/style.css
+0 2
+http://yandex.ru/clck/jsredir
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) WhatsApp/0.2.2732 Chrome/53.0.2785.113
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:51.0) Gecko/20100101 Firefox/51.0
+0 64
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G36 Saf
+0 200
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14
+0 5
+TelegramBot (like TwitterBot)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+0 4
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 22
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; Touch; ASU2JS)
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:51.0) Gecko/20100101 Firefox/51.0
+0 50
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 1
+request.js
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

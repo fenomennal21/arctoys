@@ -1,0 +1,587 @@
+# Webalizer V2.23-05 Incremental Data - 02/25/2017 18:37:03
+2017 2 25 18 37 3
+2057 1296 33 111 52 21 27606780 581 56 0
+2 1 393 1 25
+174 145 1688755 3 77 4
+119 97 1654304 5 61 8
+20 14 163225 3 7 3
+40 30 679250 1 10 1
+8 3 9538 4 5 4
+11 6 199415 3 5 3
+111 103 1466499 5 61 5
+0 0 0 0 0 0
+1 0 1148 1 0 0
+347 220 1982038 2 146 5
+121 82 3597836 5 41 6
+1 1 1843 1 1 1
+4 2 6214 1 2 2
+0 0 0 0 0 0
+2 1 2383 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 1 3578 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+101 80 1853297 5 37 3
+963 488 14171624 4 106 5
+27 21 119232 3 17 2
+4 2 6601 2 3 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 1238 1
+40 30 679250 10
+2 1 2991 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+72 50 1969540 26
+253 156 2915693 93
+41 41 564396 27
+100 88 1223430 48
+70 63 633165 50
+34 20 525222 8
+2 2 4523 2
+90 58 1466355 30
+82 56 653145 37
+228 82 1900490 62
+396 67 3192551 36
+17 17 510273 5
+1 0 1148 0
+471 429 9956386 62
+46 44 392063 31
+110 90 1012504 51
+1 1 2417 1
+0
+0
+0
+1296
+0
+0
+0
+0
+0
+2
+0
+24
+25
+0
+542
+0
+0
+0
+0
+0
+0
+161
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+# -urls- 
+/jadwal-sidang/assets/struktur/js/jquery/ui-lightness/jquery-ui-1.10.2.custom.css
+0 94 7666651792195025513 464559 0 0
+/jadwal-sidang/assets/slider/slider/js/jquery.js
+0 3 0 116454 0 0
+/_autoindex/icons/html.png
+0 1 0 1197 0 0
+/jadwal-sidang/assets/6d69244a/css/loading.gif
+0 1 0 1737 0 0
+/jadwal-sidang/assets/2042e071/css/kv-widgets.css
+0 5 0 1660 0 0
+/jadwal-sidang/page-info
+0 12 0 16149 0 1
+/jadwal-sidang/assets/92d43ce5/js/bootstrap-timepicker.js
+0 2 0 11978 0 0
+/jadwal-sidang/jadwal-sidang/index
+0 1 0 2364 0 0
+/jadwal-sidang/assets/12f5d313/js/dialog.js
+0 2 0 3098 0 0
+/jadwal-sidang/jadwal-sidang/update
+0 6 0 19917 0 0
+/basic/
+0 1 0 776 0 0
+/jadwal-sidang/assets/3ec09c6a/fonts/glyphicons-halflings-regular.woff2
+0 8 0 126196 0 0
+/jadwal-sidang/assets/aa51cf1a/js/datepicker-kv.js
+0 5 0 2816 0 0
+/jadwal-sidang/assets/datatables/media/css/jquery.dataTables.min.css
+0 94 0 161943 0 0
+/jadwal-sidang/assets/92d43ce5/css/bootstrap-timepicker.css
+0 2 0 2212 0 0
+/jadwal-sidang/assets/struktur/css/primitives.latest.css
+0 94 0 46480 0 0
+/jadwal-sidang/assets/33c2a226/js/jquery.resizableColumns.js
+0 2 0 4890 0 0
+/jadwal-sidang/assets/d5235e05/yii.validation.js
+0 11 0 25968 0 0
+/jadwal-sidang/assets/datatables/media/images/sort_asc.png
+0 37 0 3840 0 0
+/jadwal-sidang/spdp/create
+0 1 0 2913 0 0
+/jadwal-sidang/tahanan/pasal-dilanggar
+0 8 0 18994 0 0
+/_autoindex/icons/up.png
+0 1 0 1139 0 0
+/jadwal-sidang/daftar-tahanan
+0 15 0 27974 0 0
+/jadwal-sidang/assets/6d69244a/js/select2-krajee.js
+0 2 0 3840 0 0
+/jadwal-sidang/user/
+0 3 0 7208 0 0
+/basic/web/assets/aaa6871a/css/bootstrap.css
+0 1 0 28339 0 0
+/jadwal-sidang/user
+0 1 0 2798 1 0
+/jadwal-sidang/assets/struktur/js/primitives.min.js
+0 93 0 2687033 0 0
+/jadwal-sidang/assets/2042e071/js/kv-widgets.js
+0 5 0 2176 0 0
+/jadwal-sidang/tahanan/pasal-terbukti
+0 5 0 11821 0 0
+/basic/web/assets/ac87473/jquery.js
+0 1 0 93367 0 0
+/jadwal-sidang/sel/index
+0 2 0 9722 0 0
+/jadwal-sidang/assets/866c2952/dist/css/bootstrap-dialog.css
+0 2 0 1268 0 0
+/jadwal-sidang/jadwal-sidang
+0 12 0 27464 1 2
+/jadwal-sidang/berkas-pertama/create
+0 4 0 12769 0 0
+/jadwal-sidang/tahanan/pasal-dakwaan
+0 11 0 26519 0 0
+/_autoindex/icons/unknown.png
+0 1 0 1070 0 0
+/jadwal-sidang/assets/carousel/carousel/images/slide1.jpg
+0 1 0 23550 0 0
+/jadwal-sidang/user/create
+0 1 0 2687 0 0
+/jadwal-sidang/assets/6d69244a/js/select2.full.js
+0 2 0 86968 0 0
+/jadwal-sidang/penentuan-perkara
+0 4 0 9084 1 0
+/jadwal-sidang/view-rekapitulasi
+0 15 0 34278 1 3
+/jadwal-sidang/jadwal-sidang/create
+0 1 0 3218 0 0
+/jadwal-sidang/assets/struktur/js/jquery/jquery-ui-1.10.2.custom.min.js
+0 93 0 3619610 0 0
+/jadwal-sidang/css/site.css
+0 94 0 32591 0 0
+/jadwal-sidang/sel/create
+0 3 0 5783 0 0
+/jadwal-sidang/sel
+0 4 0 19393 0 0
+/_autoindex/icons/blank.png
+0 1 0 171 0 0
+/jadwal-sidang/user/index
+0 1 0 2802 0 0
+/jadwal-sidang/assets/6d69244a/css/select2.css
+0 2 0 5890 0 0
+/jadwal-sidang/view-jadwal-sidang
+0 33 0 62064 0 0
+/jadwal-sidang/assets/slider/slider/js/bootstrap.min.js
+0 3 7017296949248881710 35667 0 0
+/jadwal-sidang/tahanan
+0 8 8458604525131923456 19306 0 0
+/basic/web/
+0 1 87311334373471281 1303 0 1
+/jadwal-sidang/assets/d5235e05/yii.gridView.js
+0 8 3273687450310764032 15162 0 0
+/jadwal-sidang/assets/987d625c/jquery.js
+0 132 8242201078346689844 8862507 0 0
+/basic/web/css/site.css
+0 1 3330750574021836800 770 0 0
+/jadwal-sidang/spdp
+0 12 504426820709 26968 0 0
+/jadwal-sidang/assets/struktur/css/images/ui-bg_glass_100_f6f6f6_1x400.png
+0 7 0 728 0 0
+/jadwal-sidang/assets/carousel/carousel/images/slide2.jpg
+0 1 0 23987 0 0
+/jadwal-sidang/assets/33c2a226/css/jquery.resizableColumns.css
+0 2 0 638 0 0
+/jadwal-sidang/
+0 104 0 186875 21 6
+/jadwal-sidang/assets/6d69244a/css/select2-krajee.css
+0 2 0 7410 0 0
+/jadwal-sidang/assets/3ec09c6a/css/bootstrap.css
+0 94 0 1871950 0 0
+/jadwal-sidang/assets/6d69244a/css/select2-addl.css
+0 2 0 946 0 0
+/basic/web/assets/aaa6871a/js/bootstrap.js
+0 1 0 18562 0 0
+/jadwal-sidang/site/profil
+0 18 0 36961 4 2
+/jadwal-sidang/images/logokejatinew.png
+0 21 0 3258134 0 0
+/jadwal-sidang/informasi
+0 7 0 15929 0 0
+/jadwal-sidang/assets/33c2a226/js/kv-grid-action.js
+0 2 0 1620 0 0
+/basic/web/assets/c1b09b86/yii.js
+0 1 0 5647 0 0
+/jadwal-sidang/informasi/2
+0 1 0 1793 0 0
+/jadwal-sidang/assets/struktur/css/images/ui-bg_glass_65_ffffff_1x400.png
+0 2 0 210 0 0
+/jadwal-sidang/penentuan-perkara/create
+0 1 0 3059 0 0
+/jadwal-sidang/assets/3ec09c6a/fonts/glyphicons-halflings-regular.eot
+0 1 0 20127 0 0
+/jadwal-sidang/informasi/update/2
+0 1 0 2738 0 0
+/jadwal-sidang/struktur
+0 16 0 26064 0 0
+/jadwal-sidang/assets/6d69244a/css/search.png
+0 1 0 269 0 0
+/jadwal-sidang/assets/slider/slider/img/background.jpg
+0 1 0 33328 0 0
+/jadwal-sidang/assets/d5235e05/yii.activeForm.js
+0 11 0 58928 0 0
+/jadwal-sidang/assets/3ec09c6a/css/bootstrap.css.map
+0 2 0 781036 0 0
+/jadwal-sidang/upaya-hukum/rincian
+0 13 0 37853 1 1
+/jadwal-sidang/informasi/create
+0 2 0 5259 0 0
+/jadwal-sidang/assets/datatables/media/js/jquery.dataTables.min.js
+0 94 0 1783532 0 0
+/jadwal-sidang/berkas-pertama
+0 7 0 15292 4 1
+/jadwal-sidang/rincian-sidang
+0 9 0 16509 1 0
+/jadwal-sidang/assets/aa51cf1a/css/bootstrap-datepicker3.css
+0 5 0 12768 0 0
+/jadwal-sidang/assets/struktur/css/images/ui-bg_glass_100_fdf5ce_1x400.png
+0 2 0 250 0 0
+/jadwal-sidang/jadwal-sidang/view
+0 5 0 8770 0 0
+/jadwal-sidang/tahanan/create
+0 1 0 2369 0 0
+/jadwal-sidang/assets/struktur/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png
+0 7 0 630 0 0
+/jadwal-sidang/detail-penentuan
+0 3 0 6848 0 0
+/jadwal-sidang/assets/d5235e05/yii.js
+0 94 0 276676 0 0
+/jadwal-sidang/upaya-hukum
+0 82 0 193858 1 2
+/jadwal-sidang/site/login
+0 17 0 29149 1 2
+/jadwal-sidang/assets/866c2952/dist/js/bootstrap-dialog.js
+0 2 0 20478 0 0
+/jadwal-sidang/assets/aa51cf1a/css/datepicker-kv.css
+0 5 0 1996 0 0
+/jadwal-sidang/tahanan/biodata
+0 22 0 38585 0 0
+/jadwal-sidang/assets/33c2a226/css/kv-grid-action.css
+0 2 0 732 0 0
+/jadwal-sidang/foto/
+0 16 0 9427 0 0
+/jadwal-sidang/assets/aa51cf1a/js/bootstrap-datepicker.js
+0 5 0 71976 0 0
+/jadwal-sidang/assets/slider/slider/css/bootstrap.min.css
+0 3 0 75588 0 0
+/_autoindex/icons/folder.png
+0 1 0 1114 0 0
+/jadwal-sidang/assets/3ec09c6a/js/bootstrap.js
+0 95 0 1105675 0 0
+/jadwal-sidang/backend/
+0 29 0 67840 1 1
+/jadwal-sidang/assets/datatables/media/images/sort_both.png
+0 37 0 4824 0 0
+/jadwal-sidang/assets/33c2a226/js/kv-grid-export.js
+0 2 0 10490 0 0
+/jadwal-sidang/assets/33c2a226/css/kv-grid.css
+0 2 0 4306 0 0
+/jadwal-sidang/assets/slider/slider/css/full-slider.css
+0 3 0 1047 0 0
+/jadwal-sidang/jadwal-sidang/rincian
+0 5 0 10677 0 0
+/jadwal-sidang/assets/2042e071/img/loading-plugin.gif
+0 2 0 1694 0 0
+# End Of Table - urls
+# -sites- (monthly)
+google-proxy-66-102-7-167.google.com
+0 4 1 5437 1 1487781144
+/jadwal-sidang/
+168.235.201.237
+0 32 28 811818 1 1487796896
+/jadwal-sidang/upaya-hukum/rincian
+114.125.83.142
+0 27 27 1007721 2 1486058829
+/jadwal-sidang/site/profil
+google-proxy-66-102-6-87.google.com
+0 4 1 4724 2 1486367699
+/jadwal-sidang/
+google-proxy-66-102-6-86.google.com
+0 2 1 2385 1 1486134617
+/jadwal-sidang/
+nat-service.aws.kontera.com
+0 3 3 4900 1 1486058819
+/jadwal-sidang/backend/
+36.73.243.157
+0 82 75 637080 1 1486505924
+/jadwal-sidang/tahanan/biodata
+36.78.110.86
+0 40 30 679250 1 1486171261
+/jadwal-sidang/
+google-proxy-66-102-7-165.google.com
+0 3 2 4571 2 1487933153
+/jadwal-sidang/
+ip-84-12.infokom.net
+0 260 163 1369520 5 1487002501
+/jadwal-sidang/site/profil
+114.125.81.31
+0 28 10 482901 1 1486803235
+/jadwal-sidang/spdp/create
+google-proxy-66-102-6-88.google.com
+0 4 2 4818 2 1486367699
+/jadwal-sidang/
+210.57.215.134
+0 275 172 2951728 7 1487951711
+/jadwal-sidang/
+114.125.81.11
+0 6 6 289129 1 1486804412
+/jadwal-sidang/view-rekapitulasi
+114.125.100.164
+0 6 4 193409 1 1486413134
+/jadwal-sidang/rincian-sidang
+google-proxy-66-102-6-27.google.com
+0 2 1 2431 1 1486295741
+/jadwal-sidang/
+dynamicip-188-234-40-16.pppoe.kzn.ertelecom.ru
+0 1 1 1238 1 1486427599
+/jadwal-sidang/
+google-proxy-66-102-6-25.google.com
+0 3 1 3576 1 1486295740
+/jadwal-sidang/
+37-144-52-89.broadband.corbina.ru
+0 13 13 503210 1 1486456359
+/jadwal-sidang/backend/
+114.125.81.51
+0 17 14 670342 1 1486802695
+/jadwal-sidang/view-rekapitulasi
+49.subnet110-138-221.speedy.telkom.net.id
+0 77 68 698521 2 1485952340
+/jadwal-sidang/
+36.74.18.186
+0 64 52 436292 1 1485990072
+/jadwal-sidang/tahanan/pasal-terbukti
+114.125.81.227
+0 11 10 478828 2 1486803894
+/jadwal-sidang/berkas-pertama/create
+114.125.102.202
+0 2 1 2386 1 1486505256
+/jadwal-sidang/
+google-proxy-66-102-7-163.google.com
+0 4 2 4813 2 1487858871
+/jadwal-sidang/
+spider-141-8-142-180.yandex.com
+0 2 0 2295 1 1486315280
+-
+broadband-46-242-79-221.moscow.rt.ru
+0 13 13 322585 1 1486503040
+/jadwal-sidang/
+210.57.215.114
+0 579 161 5385991 5 1487872120
+/jadwal-sidang/upaya-hukum/rincian
+114.125.81.187
+0 59 42 1676636 1 1486799341
+/jadwal-sidang/informasi/update/2
+customer.tigerbackbone.com
+0 4 3 7296 3 1488047823
+/jadwal-sidang/
+36.74.0.49
+0 33 27 553942 1 1485987135
+/jadwal-sidang/backend/
+spider-93-158-152-61.yandex.com
+0 4 1 4680 1 1486315284
+/jadwal-sidang/
+36.81.190.130
+0 393 363 8402327 1 1487883588
+/jadwal-sidang/upaya-hukum
+# End Of Table - sites (monthly)
+# -sites- (daily)
+customer.tigerbackbone.com
+0 3 2 5453 2 1488047823
+/jadwal-sidang/
+spider-93-158-152-61.yandex.com
+0 1 0 1148 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://kejatituban.arctoys.com/jadwal-sidang/view-jadwal-sidang
+0 127
+http://kejatituban.arctoys.com/jadwal-sidang/daftar-tahanan
+0 15
+http://kejatituban.arctoys.com/jadwal-sidang/site/profil
+0 37
+http://kejatituban.arctoys.com/jadwal-sidang/tahanan/pasal-dilanggar
+0 8
+http://kejatituban.arctoys.com/jadwal-sidang/jadwal-sidang
+0 13
+http://kejatituban.arctoys.com/basic/web/
+0 5
+http://kejatituban.arctoys.com/jadwal-sidang/spdp
+0 27
+http://kejatituban.arctoys.com/jadwal-sidang/penentuan-perkara/create
+0 1
+http://kejatituban.arctoys.com/jadwal-sidang/user/create
+0 1
+http://kejatituban.arctoys.com/jadwal-sidang/rincian-sidang
+0 33
+http://kejatituban.arctoys.com/jadwal-sidang/tahanan/pasal-dakwaan
+0 11
+http://kejatituban.arctoys.com/jadwal-sidang/page-info
+0 14
+http://kejatituban.arctoys.com/jadwal-sidang/tahanan
+0 17
+http://kejatituban.arctoys.com/jadwal-sidang/assets/datatables/media/css/jquery.dataTables.min.css
+0 70
+http://kejatituban.arctoys.com/
+0 13
+http://kejatituban.arctoys.com/jadwal-sidang/tahanan/create
+0 1
+http://kejatituban.arctoys.com/jadwal-sidang/upaya-hukum/rincian
+0 63
+http://kejatituban.arctoys.com/basic/
+0 6
+http://kejatituban.arctoys.com/jadwal-sidang/backend/
+0 59
+http://kejatituban.arctoys.com/jadwal-sidang/sel/index
+0 2
+http://kejatituban.arctoys.com/jadwal-sidang/tahanan/biodata
+0 13
+- (Direct Request)
+0 140
+http://kejatituban.arctoys.com/jadwal-sidang/spdp/create
+0 2
+http://kejatituban.arctoys.com/jadwal-sidang/informasi/create
+0 13
+http://kejatituban.arctoys.com/jadwal-sidang/view-rekapitulasi
+0 26
+http://kejatituban.arctoys.com/jadwal-sidang/sel
+0 22
+http://kejatituban.arctoys.com/jadwal-sidang/jadwal-sidang/update
+0 22
+http://kejatituban.arctoys.com/jadwal-sidang/user/index
+0 1
+http://kejatituban.arctoys.com/jadwal-sidang/penentuan-perkara
+0 5
+http://kejatituban.arctoys.com/jadwal-sidang/assets/2042e071/css/kv-widgets.css
+0 2
+http://kejatituban.arctoys.com/jadwal-sidang/
+0 391
+http://kejatituban.arctoys.com/jadwal-sidang/user
+0 1
+http://kejatituban.arctoys.com/jadwal-sidang/berkas-pertama/create
+0 29
+http://kejatituban.arctoys.com/jadwal-sidang/assets/6d69244a/css/select2-krajee.css
+0 2
+http://kejatituban.arctoys.com/jadwal-sidang/informasi/update/2
+0 2
+http://kejatituban.arctoys.com/jadwal-sidang/jadwal-sidang/view
+0 10
+http://kejatituban.arctoys.com/jadwal-sidang/jadwal-sidang/rincian
+0 3
+http://kejatituban.arctoys.com/jadwal-sidang/detail-penentuan
+0 2
+http://kejatituban.arctoys.com/jadwal-sidang/struktur
+0 50
+http://kejatituban.arctoys.com/jadwal-sidang/site/login
+0 45
+http://kejatituban.arctoys.com/jadwal-sidang/jadwal-sidang/create
+0 15
+http://kejatituban.arctoys.com/jadwal-sidang/informasi/2
+0 1
+http://kejatituban.arctoys.com/jadwal-sidang/jadwal-sidang/index
+0 1
+http://kejatituban.arctoys.com/jadwal-sidang/informasi
+0 15
+http://kejatituban.arctoys.com/jadwal-sidang/berkas-pertama
+0 9
+http://kejatituban.arctoys.com/jadwal-sidang/user/
+0 3
+http://kejatituban.arctoys.com/jadwal-sidang/assets/3ec09c6a/css/bootstrap.css
+0 6
+http://kejatituban.arctoys.com/jadwal-sidang/sel/create
+0 3
+http://kejatituban.arctoys.com/jadwal-sidang/assets/struktur/css/primitives.latest.css
+0 14
+http://kejatituban.arctoys.com/jadwal-sidang/upaya-hukum
+0 680
+http://yandex.ru/clck/jsredir
+0 3
+http://kejatituban.arctoys.com/jadwal-sidang/tahanan/pasal-terbukti
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+0 91
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+0 97
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Saf
+0 29
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 17
+Mozilla/5.0 (Windows NT 6.3; rv:52.0) Gecko/20100101 Firefox/52.0
+0 77
+Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+0 167
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.11.2883.75 Safari/537.36
+0 20
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:51.0) Gecko/20100101 Firefox/51.0
+0 471
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.10.1500.9323 Safari/537.
+0 13
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; ASUS_Z007 Build/KVT49L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBro
+0 32
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 6
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 82
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 428
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 26
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 3
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:51.0) Gecko/20100101 Firefox/51.0
+0 225
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 4
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 13
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.25.2883.75 Safari/537.36
+0 188
+Mozilla/5.0 (Windows NT 6.1; rv:50.0) Gecko/20100101 Firefox/50.0
+0 67
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

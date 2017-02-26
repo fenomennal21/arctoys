@@ -1,0 +1,499 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201701 will be lost/reset.
+# Last config file used to build this data file was /home/arctoysc/tmp/awstats/awstats.kejatituban.arctoys.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2698                
+POS_VISITOR 10822               
+POS_DAY 13565               
+POS_DOMAIN 3474                
+POS_LOGIN 3764                
+POS_ROBOT 3919                
+POS_WORMS 4179                
+POS_EMAILSENDER 4310                
+POS_EMAILRECEIVER 4453                
+POS_SESSION 14126               
+POS_SIDER 14334               
+POS_FILETYPES 4588                
+POS_DOWNLOADS 4864                
+POS_OS 4912                
+POS_BROWSER 5107                
+POS_SCREENSIZE 5482                
+POS_UNKNOWNREFERER 5556                
+POS_UNKNOWNREFERERBROWSER 5743                
+POS_ORIGIN 5925                
+POS_SEREFERRALS 6067                
+POS_PAGEREFS 6224                
+POS_SEARCHWORDS 6435                
+POS_KEYWORDS 6587                
+POS_MISC 2362                
+POS_ERRORS 6646                
+POS_CLUSTER 3620                
+POS_SIDER_404 6800                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170201102747 41 10573 9085920157396
+FirstTime 20170104105708
+LastTime 20170131220736
+LastUpdate 20170201182948 41 0 40 0 0
+TotalVisits 107                 
+TotalUnique 61                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 67                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 59 86 797511 9 140 496757
+1 2 13 304370 0 1 1148
+2 0 0 0 0 0 0
+3 1 13 300663 0 0 0
+4 1 12 302528 0 0 0
+5 2 2 3156 4 5 5758
+6 0 11 301220 1 1 1173
+7 11 23 474055 0 4 0
+8 13 18 162454 2 7 1147
+9 124 248 3733442 31 39 539014
+10 195 258 2546806 45 56 274490
+11 184 381 6061076 13 19 102135
+12 36 79 1349016 2 6 4625
+13 82 185 2938424 33 55 976077
+14 158 213 4515182 62 65 645113
+15 115 163 1580061 28 30 457709
+16 131 136 479398 33 38 553069
+17 24 36 547895 0 2 0
+18 36 81 1252961 9 10 78612
+19 136 243 3540586 74 100 618153
+20 155 279 1971218 24 31 192174
+21 149 195 1054183 29 77 519569
+22 267 376 2620503 31 87 322093
+23 65 126 1677426 9 19 298232
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+id 1883 2953 33083517
+us 44 45 70388
+ru 12 172 5349000
+at 6 6 9355
+ro 1 1 1874
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+google[_+\s]web[_+\s]preview 13 502458 20170117134557 0
+php 4 872 20170104105736 0
+bot[\s_+:,\.\;\/\\-] 4 6259 20170115054518 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+gif 10 12920 0 0
+map 23 5857770 0 0
+eot 2 40254 0 0
+php 27 39209 0 0
+woff2 34 324504 0 0
+woff 3 70272 0 0
+png 131 7950159 0 0
+html 431 603942 0 0
+Unknown 1426 2760998 0 0
+js 671 18090165 0 0
+css 419 2763941 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+linuxandroid 26 13
+Unknown 3 3
+macosx 279 105
+win7 1112 691
+win8.1 220 104
+linux 8 8
+winnt 1149 864
+ios_iphone 299 152
+winxp 81 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+safari8.0 308 176
+chrome49.0.2623.75 8 8
+chrome55.11.2883.75 292 248
+firefox3.0.5 2 1
+msie11.0 22 4
+chrome47.0.2526.83 26 13
+chrome31.0.1650.57 96 5
+chrome28.0.1500.95 13 1
+firefox51.0 211 101
+Unknown 3 3
+msie10.0 7 7
+safari10.0 24 9
+firefox25.0 13 1
+chrome55.0.2883.87 1645 1209
+iphone 1 1
+firefox50.0 469 155
+msie8.0 37 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+request.js 20170104110130
+facebookexternalhit/1.1 20170104105737
+WhatsApp/2.16.396_A 20170113154437
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+facebookexternalhit/1.1 20170104105737
+request.js 20170104110130
+WhatsApp/2.16.396_A 20170113154437
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 226 226
+From1 0 0
+From2 10 10
+From3 3 3
+From4 1707 2938
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 10 10
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://www.facebook.com 2 2
+http://l.facebook.com/lsr.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+400 1 1150
+403 22 25350
+500 164 5044640
+302 134 0
+404 347 465027
+301 43 41292
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 50
+/jadwal-sidang/images/photos/f.png 19 http://kejatituban.arctoys.com/jadwal-sidang/user
+/jadwal-sidang/backend/sel 2 -
+/jadwal-sidang/images/photos/a.png 24 http://kejatituban.arctoys.com/jadwal-sidang/user
+/vendor/DataTables-1.10.13/media/jquery.js 9 http://kejatituban.arctoys.com/jadwal-sidang/rincian-sidang
+/logout 1 http://kejatituban.arctoys.com/jadwal-sidang/logout
+/jadwal-sidang/images/photos/c.png 19 http://kejatituban.arctoys.com/jadwal-sidang/user
+/jadwal-sidang/assets/global/plugins/font-awesome/css/font-awesome.min.css 5 http://kejatituban.arctoys.com/jadwal-sidang/rincian-sidang
+/jadwal-sidang/profil 3 http://kejatituban.arctoys.com/jadwal-sidang/site/profil
+/jadwal-sidang/jadwal-sidangsite/profil 7 http://kejatituban.arctoys.com/jadwal-sidang/site/profil
+/jadwal-sidang/rincian 8 http://kejatituban.arctoys.com/jadwal-sidang/upaya-hukum
+/robots.txt 5 -
+/jadwal-sidang/infromasi 2 http://kejatituban.arctoys.com/jadwal-sidang/berkas-pertama
+/jadwal-sidang/login 8 http://kejatituban.arctoys.com/jadwal-sidang/login
+/jadwal-sidang/jadwal-sidang/rincian-sidang 5 http://kejatituban.arctoys.com/jadwal-sidang/jadwal-sidang/rincian
+/upaya-hukum 1 http://kejatituban.arctoys.com/jadwal-sidang/upaya-hukum/rincian
+/jadwal-sidang/logout 4 http://kejatituban.arctoys.com/jadwal-sidang/
+/jadwal-sidang/jadwal-sidang/profil 2 http://kejatituban.arctoys.com/jadwal-sidang/
+/vendor/DataTables-1.10.13/media/jquery.dataTables.min.css 10 http://kejatituban.arctoys.com/jadwal-sidang/rincian-sidang
+/jadwal-sidang/backend/views/JadwalSidang/ 1 http://kejatituban.arctoys.com/jadwal-sidang/backend/views/
+/jadwal-sidang/jadwal-sidangprofil 3 http://kejatituban.arctoys.com/jadwal-sidang/
+/cuta 1 -
+/jadwal-sidang/images/photos/g.png 19 http://kejatituban.arctoys.com/jadwal-sidang/user
+/jadwal-sidang/informasi/update/1 1 -
+/vendor/DataTables-1.10.13/media/datatables.min.js 9 http://kejatituban.arctoys.com/jadwal-sidang/rincian-sidang
+/jadwal-sidang/rincian-sidang/rincian 1 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/jadwal-sidang/foto/nganggur1.png.png 81 http://kejatituban.arctoys.com/jadwal-sidang/struktur
+/jadwal-sidang/tahanan/biodata 1 http://kejatituban.arctoys.com/jadwal-sidang/daftar-tahanan
+/jadwal-sidang/persidangan 1 -
+/jadwal-sidang/images/photos/d.png 19 http://kejatituban.arctoys.com/jadwal-sidang/user
+/jadwal-sidang/assets/global/plugins/simple-line-icons/simple-line-icons.min.css 6 -
+/browserconfig.xml 1 -
+/jadwal-sidang/assets/global/scripts/jquery.dataTables.min.js 5 http://kejatituban.arctoys.com/jadwal-sidang/view-jadwal-sidang
+/jadwal-sidang/backend/site/index 6 -
+/jadwal-sidang/web/rincian-sidang 2 http://kejatituban.arctoys.com/jadwal-sidang/web/
+/jadwal-sidang/asset/struktur/images/photos/a.png 1 http://kejatituban.arctoys.com/jadwal-sidang/user
+/jadwal-sidang/cpanel 1 -
+/apple-touch-icon-120x120.png 1 -
+/jadwal-sidang/web/images/logokejatinew.png 4 http://kejatituban.arctoys.com/jadwal-sidang/web/
+/jadwal-sidang/images/photos/e.png 19 http://kejatituban.arctoys.com/jadwal-sidang/user
+/jadwal-sidang/backend/master/sel 1 -
+/jadwal-sidang/backend/index 1 -
+/jadwal-sidang/site/backend/index 1 http://kejatituban.arctoys.com/jadwal-sidang/site/login
+/apple-touch-icon-precomposed.png 1 -
+/jadwal-sidang/images/photos/b.png 19 http://kejatituban.arctoys.com/jadwal-sidang/user
+/rincian-sidang 1 http://kejatituban.arctoys.com/jadwal-sidang/jadwal-sidang/rincian
+/jadwal-sidang/site/site/profil 1 http://kejatituban.arctoys.com/jadwal-sidang/site/profil
+/user/ 1 http://kejatituban.arctoys.com/jadwal-sidang/struktur
+/apple-touch-icon.png 2 -
+/jadwal-sidang/jadwal-sidangjadwal-sidang/site/profil 1 http://kejatituban.arctoys.com/jadwal-sidang/site/profil
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 67
+210.57.215.114 603 868 10146888 20170118075842
+210.57.215.134 262 315 2207277 20170131155325
+36.81.129.17 108 152 1451571 20170117005838
+110.138.221.49 101 211 4080840 20170123121814
+114.125.108.180 100 123 413082 20170117222620
+103.238.203.123 82 104 660492 20170117225134
+180.247.67.56 75 141 257562 20170112212333
+180.251.117.226 68 99 142158 20170112230743
+114.125.104.201 62 78 572701 20170117224456
+110.50.84.12 54 115 1893442 20170127132742
+36.81.164.161 46 68 391853 20170117220853
+180.246.16.71 40 56 1366243 20170111202334
+114.125.83.96 34 52 445287 20170113160616
+52.71.155.178 34 34 60027 20170117174017
+139.0.247.51 29 91 1452983 20170115124307
+36.73.238.68 29 37 119246 20170117204803
+180.251.85.9 26 28 56193 20170117200705
+36.74.13.3 22 35 38596 20170117195725
+114.125.83.235 21 35 421879 20170115225838
+114.125.83.44 18 35 550298 20170123183650
+140.0.40.250 15 26 437601 20170112223828
+115.178.238.69 13 26 434085 20170113132225
+180.247.137.215 13 38 681866 20170131220736
+36.81.183.61 12 29 390902 20170111185133
+139.228.94.173 9 30 556218 20170113235023
+128.75.254.226 1 12 321347 20170120145516
+66.220.145.243 1 1 359 20170104105738
+46.242.91.219 1 13 502539 20170120092150
+176.195.103.91 1 12 302526 20170124012640
+66.102.6.151 4 4 4595 20170116092918
+114.125.117.206 1 1 1805 20170113154437
+114.125.77.49 7 22 534743 20170124103904
+31.135.83.9 1 13 502497 20170122203208
+188.187.19.193 1 13 503241 20170120111343
+176.195.124.135 1 12 302528 20170123040204
+114.125.116.241 9 25 396236 20170116211205
+109.63.208.48 1 13 300663 20170117032935
+114.125.83.4 1 1 1962 20170123225111
+173.252.80.115 1 1 359 20170104105737
+109.173.52.208 0 11 301220 
+114.125.104.31 1 13 503218 20170128192205
+110.139.77.116 2 8 349846 20170112192609
+176.15.236.214 0 4 160680 
+114.125.119.19 2 9 183643 20170116230123
+139.228.86.254 1 8 182487 20170115155204
+88.81.39.156 0 11 301220 
+93.80.144.89 0 7 262050 
+188.172.219.43 3 3 5776 20170119014200
+66.220.145.244 0 1 171 
+109.63.240.229 0 11 301220 
+114.125.118.143 1 1 1801 20170115170337
+176.14.208.180 2 13 322651 20170122230152
+46.188.21.2 1 1 1949 20170120222325
+114.125.75.97 1 1 1963 20170124113323
+66.102.6.25 3 3 3799 20170120080847
+185.57.81.38 1 1 1874 20170112053037
+95.221.228.218 1 13 503250 20170120190146
+110.232.70.170 1 1 1959 20170128184211
+180.254.40.248 1 6 53199 20170112193357
+178.255.153.77 3 3 3579 20170119054512
+114.125.115.77 1 7 1650 20170130224707
+66.102.6.29 1 1 1078 20170116224103
+114.125.81.116 9 24 510818 20170117211932
+176.195.51.169 1 13 459419 20170121071022
+114.125.73.43 1 9 383152 20170115110307
+114.125.83.24 1 12 302551 20170123190915
+114.125.81.224 1 13 503221 20170129171039
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20170104 12 17 4576 4
+20170110 19 46 346982 2
+20170111 412 574 6597580 10
+20170112 244 435 3546965 12
+20170113 121 245 5579731 9
+20170114 2 2 2388 1
+20170115 54 145 2443387 6
+20170116 155 210 1895042 11
+20170117 788 1006 6148973 21
+20170118 3 3 5625 3
+20170119 3 3 4406 3
+20170120 6 86 2858776 6
+20170121 1 24 760639 1
+20170122 3 26 825148 2
+20170123 94 233 4803052 5
+20170124 9 35 839232 3
+20170127 2 14 158478 1
+20170128 2 14 505177 2
+20170129 1 13 503221 1
+20170130 1 7 1650 1
+20170131 14 39 683106 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 49
+5mn-15mn 7
+2mn-5mn 6
+15mn-30mn 8
+30s-2mn 8
+1h+ 17
+30mn-1h 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 77
+/jadwal-sidang/ 220 358497 48 27
+/jadwal-sidang/site/profil 171 329093 17 16
+/jadwal-sidang/view-jadwal-sidang 160 218607 4 13
+/jadwal-sidang/foto/ 103 60846 0 3
+/jadwal-sidang/rincian-sidang 103 150933 4 3
+/jadwal-sidang/user 95 239020 1 3
+/jadwal-sidang/upaya-hukum 63 105603 0 1
+/jadwal-sidang/struktur 63 107249 1 2
+/jadwal-sidang/site/login 54 94510 1 0
+/jadwal-sidang/view-rekapitulasi 54 118249 1 2
+/jadwal-sidang/backend/ 47 88340 3 3
+/jadwal-sidang/user/create 44 71385 0 0
+/jadwal-sidang/jadwal-sidang/rincian 42 69869 0 1
+/jadwal-sidang/page-info 40 58442 3 3
+/jadwal-sidang/jadwal-sidang 38 75323 3 1
+/jadwal-sidang/assets/3ec09c6a/fonts/glyphicons-halflings-regular.woff2 34 324504 0 3
+/jadwal-sidang/daftar-tahanan 33 49262 0 0
+/basic/web/index.php 27 39209 1 4
+/jadwal-sidang/upaya-hukum/rincian 27 55720 0 1
+/jadwal-sidang/tahanan 26 54279 0 1
+/jadwal-sidang/site/index 26 49735 0 0
+/jadwal-sidang/tahanan/pasal-dilanggar 26 51377 0 0
+/jadwal-sidang/user/index 24 57210 0 0
+/jadwal-sidang/assets/3ec09c6a/css/bootstrap.css.map 23 5857770 0 2
+/jadwal-sidang/tahanan/pasal-dakwaan 22 42382 0 0
+/jadwal-sidang/penentuan-perkara/index 1 2243 0 0
+/jadwal-sidang/informasi/update/3 3 7824 1 0
+/jadwal-sidang/detail-penentuan/index 10 22684 0 0
+/jadwal-sidang/gii/crud 13 49918 0 1
+/basic/web/ 18 23580 4 2
+/ 13 2507 5 4
+/jadwal-sidang/assets/3ec09c6a/fonts/glyphicons-halflings-regular.eot 2 40254 1 2
+/jadwal-sidang/user/update 14 36289 1 2
+/jadwal-sidang/spdp 14 30246 0 0
+/jadwal-sidang/detail-penentuan 17 38035 1 0
+/jadwal-sidang/informasi/2 3 4860 0 1
+/jadwal-sidang/berkas-pertama/view 3 5456 0 0
+/basic/ 2 1542 1 0
+/jadwal-sidang/informasi/1 4 6881 0 0
+/jadwal-sidang/informasi/index 7 14571 0 0
+/jadwal-sidang/penentuan-perkara/view 3 5378 0 0
+/jadwal-sidang/berkas-pertama 11 22239 2 1
+/jadwal-sidang/jadwal-sidang/index 5 10361 0 0
+/jadwal-sidang/tahanan/updatepasaldilanggar/3 1 1633 0 0
+/botTelegram/ 1 424 0 0
+/jadwal-sidang/spdp/update/1 3 8801 0 0
+/jadwal-sidang/jadwal-sidang/create 11 33390 0 0
+/jadwal-sidang/tahanan/biodata 20 27183 0 0
+/jadwal-sidang/backend/views/ 1 731 0 0
+/jadwal-sidang/tahanan/create 5 10468 0 0
+/jadwal-sidang/penentuan-perkara/create 6 16909 1 2
+/jadwal-sidang/spdp/create 11 30212 0 0
+/jadwal-sidang/informasi/update/1 3 7966 0 0
+/jadwal-sidang/sel 6 27000 0 0
+/jadwal-sidang/detail-penentuan/update 4 12802 0 0
+/jadwal-sidang/penentuan-perkara/update 2 6083 0 0
+/jadwal-sidang/spdp/1 5 8840 0 0
+/jadwal-sidang/gii 6 8490 0 0
+/jadwal-sidang/user/ 22 59919 0 0
+/jadwal-sidang/informasi 15 29804 0 0
+/jadwal-sidang/informasi/create 10 23379 0 0
+/jadwal-sidang/penentuan-perkara 8 16659 0 1
+/jadwal-sidang/jadwal-sidang/update 3 9493 0 0
+/jadwal-sidang/berkas-pertama/create 5 15374 0 0
+/jadwal-sidang/detail-penentuan/view 6 10648 0 0
+/jadwal-sidang/spdp/index 3 6664 0 0
+/jadwal-sidang/web/ 4 7556 0 0
+/jadwal-sidang/site/error 8 11884 1 0
+/jadwal-sidang/detail-penentuan/create 11 33667 0 0
+/jadwal-sidang/tahanan/pasal-terbukti 14 27894 0 0
+/jadwal-sidang/gii/model 18 79427 1 0
+/jadwal-sidang/tahanan/101 1 1254 0 0
+/jadwal-sidang/assets/3ec09c6a/fonts/glyphicons-halflings-regular.woff 3 70272 0 1
+/jadwal-sidang/user/view 11 18140 1 1
+/jadwal-sidang/informasi/update/2 4 10497 0 0
+/jadwal-sidang/informasi/3 3 4856 0 0
+/jadwal-sidang/jadwal-sidang/view 4 6348 0 0
+END_SIDER

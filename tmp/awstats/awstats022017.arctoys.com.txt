@@ -1,0 +1,444 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201702 will be lost/reset.
+# Last config file used to build this data file was /home/arctoysc/tmp/awstats/awstats.arctoys.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2008                
+POS_TIME 2682                
+POS_VISITOR 8817                
+POS_DAY 10919               
+POS_DOMAIN 3355                
+POS_LOGIN 3733                
+POS_ROBOT 3888                
+POS_WORMS 4305                
+POS_EMAILSENDER 4436                
+POS_EMAILRECEIVER 4579                
+POS_SESSION 11416               
+POS_SIDER 11611               
+POS_FILETYPES 4714                
+POS_DOWNLOADS 4883                
+POS_OS 4931                
+POS_BROWSER 5161                
+POS_SCREENSIZE 5911                
+POS_UNKNOWNREFERER 5985                
+POS_UNKNOWNREFERERBROWSER 6335                
+POS_ORIGIN 6527                
+POS_SEREFERRALS 6660                
+POS_PAGEREFS 6826                
+POS_SEARCHWORDS 7096                
+POS_KEYWORDS 7248                
+POS_MISC 2346                
+POS_ERRORS 7307                
+POS_CLUSTER 3589                
+POS_SIDER_404 7465                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170226182904 9 1255 8249957428207
+FirstTime 20170201122457
+LastTime 20170226103256
+LastUpdate 20170226190649 9 0 9 0 0
+TotalVisits 63                  
+TotalUnique 53                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 54                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 380 7 14 27239
+1 0 0 0 5 11 25331
+2 2 2 464 13 21 14528
+3 1 1 232 4 10 41520
+4 2 2 422 1 3 2486
+5 2 2 380 8 11 6922
+6 5 5 1034 6 10 23415
+7 1 1 232 4 9 23415
+8 2 2 707 11 20 31063
+9 0 0 0 12 18 7642
+10 7 10 51164 20 23 13211
+11 4 4 886 28 33 10990
+12 3 3 654 8 13 5922
+13 2 2 422 8 14 14095
+14 5 12 68425 9 19 131341
+15 11 27 249173 18 24 8576
+16 6 17 178173 20 23 20680
+17 14 15 5661 11 13 7150
+18 7 8 5789 10 14 8009
+19 8 10 38367 16 22 11849
+20 9 9 2431 44 49 37949
+21 4 6 24700 94 100 50719
+22 1 1 190 34 41 46602
+23 4 4 869 13 19 8492
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+id 52 93 584037
+us 21 22 22641
+ru 6 7 19287
+ua 5 5 1076
+nl 4 4 802
+ro 3 3 612
+ca 3 3 570
+cn 2 2 464
+de 1 1 190
+br 1 1 190
+kr 1 1 232
+fr 1 1 190
+se 1 1 232
+it 1 1 232
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+no_user_agent 169 85943 20170213111613 0
+googlebot 94 17902 20170225205919 0
+bot[\s_+:,\.\;\/\\-] 28 22644 20170225194318 0
+spider 21 3990 20170225125626 0
+bingpreview 8 144504 20170219060728 0
+php 7 108568 20170202145256 0
+netcraft 3 696 20170208150747 0
+crawl 1 190 20170222100506 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+png 10 9382 0 0
+jpg 23 275958 0 0
+css 4 58218 0 0
+js 6 235152 0 0
+Unknown 39 37527 0 0
+html 63 14518 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+winxp 8 8
+win2003 1 1
+linux 4 4
+win7 81 54
+Unknown 9 8
+macosx6 2 2
+winnt 11 9
+java 1 1
+win8 2 1
+macosx 10 3
+ios_iphone 5 4
+linuxandroid 7 3
+macosx7 1 1
+winlong 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 37
+chrome44.0.2403.125 2 2
+chrome41.0.2228.0 1 1
+firefox26.0 1 1
+chrome50.0.2661.86 3 1
+chrome34.0.1847.116 1 1
+chrome20.0.1132.47 1 1
+safari10.0.1 1 0
+chrome27.0.1453.90 2 2
+chrome52.0.2743.116 2 2
+chrome12.0.742.68 1 1
+chrome31.0.1650.57 1 1
+chrome40.0.2214.115 3 3
+msie7.0 3 3
+firefox50.0 1 1
+chrome10.0.648.204 4 4
+firefox51.0 54 25
+android 1 1
+firefox48.0 1 1
+chrome44.0.2427.76 1 1
+mozilla 4 4
+chrome56.0.2924.87 17 17
+chrome43.0.2357.134 1 1
+firefox49.0 1 1
+chrome16.0.897.0 1 1
+netscape5.0 2 2
+safari10.0.3 3 1
+safari 2 2
+msie8.0 2 2
+chrome53.0.2785.143 1 1
+chrome55.0.2883.91 3 1
+msie10.0 4 3
+firefox3.6.3 1 1
+Unknown 4 3
+msie6.0 2 2
+safari10.0 5 4
+chrome15.0.861.0 1 1
+chrome55.0.2883.87 7 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+facebookexternalhit/1.1 20170202145341
+Mozilla/5.0_zgrab/0.x 20170225234535
+Mozilla/4.0_(compatible;_Synapse) 20170209192105
+Mozilla/5.0_(compatible;_Newlyso.com) 20170206044855
+Go-http-client/1.1 20170203054643
+Mozilla/5.0_(compatible;_ips-agent) 20170208023108
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go-http-client/1.1 20170203054643
+facebookexternalhit/1.1 20170202145341
+Java/1.7.0_09-icedtea 20170209170428
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 87 90
+From1 0 0
+From2 5 5
+From3 5 5
+From4 5 45
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+yandex 2 2
+google 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://www.facebook.com 2 2
+https://lm.facebook.com 1 1
+http://m.facebook.com 1 1
+http://anonymizeme.pro/go/hide.cgi 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+500 8 1236
+301 17 2294
+206 2 18000
+404 157 169812
+422 3 1980
+403 1 1139
+201 1 248
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 39
+/kaha/web/datusers/1 1 -
+/kaha/web/datusers/0987 1 -
+/apple-app-site-association 3 -
+/kaha/web/sites 1 -
+/kaha/jadwals 1 -
+/xmlrpc.php 2 -
+/links/add.php 1 -
+//wp-admin/admin-ajax.php 2 -
+/web/kaha/jadwals 1 -
+/manager/ 1 -
+/admin.php 1 -
+/assets/elfinder1/elfinder.html 1 -
+/.well-known/assetlinks.json 3 -
+/robots.txt 97 -
+/kaha/web/ 1 https://arctoys.com/kaha/
+/add.php 1 -
+/backup/elfinder/elfinder.html 1 -
+/kaha 1 -
+/wp-login.php 6 -
+/kaha/web/90 1 -
+/blog/xmlrpc.php 1 -
+/kaha/web/jadwals/ 1 -
+/kaha/web/site/ 1 -
+/administrator/ 1 -
+/erpfilemanager/elfinder.html 1 -
+//wp-login.php 2 -
+/blog/ 2 http://arctoys.com/blog/
+/kaha/web/Datusers 3 -
+/kaha/web/site/index 1 https://arctoys.com/kaha/web/sites
+/administrator/components/com_jvframework/libraries/elfinder-2.0-rc1/elfinder.html 1 -
+/admin/ 1 -
+/kaha/web/datusers/fajar 1 -
+/kaha/web/jadwals/90 4 -
+/kaha/web/jadwals/100 1 -
+/administrator/index.php 3 -
+/.well-known/apple-app-site-association 3 -
+/place1/elfinder/elfinder.html 1 -
+/phpmyadmin 1 -
+/kaha/web/datusers/search 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 54
+110.50.84.12 36 61 363806 20170208180007
+36.73.243.157 4 4 1843 20170207202520
+210.57.215.114 4 13 126769 20170202150104
+114.125.119.54 3 4 18943 20170207194911
+45.32.129.200 2 2 464 20170225033812
+185.57.81.38 2 2 380 20170210210544
+158.69.229.6 2 2 380 20170224005718
+38.99.82.191 2 2 380 20170210120016
+69.58.178.59 2 2 464 20170208023108
+109.87.36.111 2 2 464 20170214115703
+91.210.147.155 1 1 190 20170217200956
+179.179.241.24 1 1 190 20170225062448
+95.211.138.129 1 1 190 20170207221709
+79.137.85.189 1 1 232 20170214203358
+193.201.225.26 1 1 232 20170209192105
+158.69.25.178 1 1 190 20170226065109
+104.154.94.120 1 1 190 20170213044614
+146.185.177.103 1 1 232 20170201122457
+209.95.165.179 1 1 232 20170212125045
+63.251.232.180 1 1 190 20170225234535
+173.208.169.42 1 1 232 20170206194629
+188.32.238.95 1 2 18253 20170209192021
+54.179.191.172 1 1 232 20170212134021
+38.100.21.61 1 1 232 20170208155809
+218.241.108.79 1 1 232 20170220180238
+173.252.75.119 0 1 18063 
+173.252.123.182 1 1 190 20170202145341
+202.80.217.161 1 1 71 20170208203420
+109.191.193.218 1 1 232 20170222195418
+83.103.189.110 1 1 232 20170223183609
+75.149.221.170 1 1 232 20170211061525
+46.165.251.155 1 1 190 20170222052439
+62.212.73.49 1 1 190 20170222063555
+114.125.80.147 1 3 24130 20170202151229
+122.114.44.166 1 1 232 20170206044855
+193.201.225.32 1 1 190 20170210145321
+139.228.68.134 1 1 215 20170207232918
+35.162.192.80 1 1 232 20170214233123
+210.57.214.26 1 3 24130 20170202145910
+198.240.86.207 1 1 232 20170215084130
+130.211.63.54 1 1 190 20170220210256
+93.100.131.49 1 1 232 20170209070432
+198.240.72.202 1 1 232 20170222173408
+46.59.107.73 1 1 232 20170207113311
+83.217.27.128 1 1 190 20170226103256
+35.154.144.135 1 1 190 20170203054643
+45.32.130.173 1 1 232 20170216171848
+178.140.117.26 1 1 190 20170209203305
+114.125.81.214 1 3 24130 20170203213812
+211.185.62.6 1 1 232 20170209170428
+46.101.2.35 1 1 190 20170222204936
+188.165.206.188 1 1 190 20170211202101
+176.62.76.129 1 1 190 20170202134644
+209.99.131.231 1 1 232 20170206065834
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20170201 1 1 232 1
+20170202 9 21 157578 7
+20170203 2 4 24320 2
+20170204 1 1 190 1
+20170206 4 11 60952 4
+20170207 30 46 186811 7
+20170208 20 25 175287 8
+20170209 5 6 19139 5
+20170210 4 4 760 3
+20170211 2 2 422 2
+20170212 2 2 464 2
+20170213 1 1 190 1
+20170214 3 3 696 3
+20170215 1 1 232 1
+20170216 1 1 232 1
+20170217 1 1 190 1
+20170220 2 2 422 2
+20170222 5 5 1034 5
+20170223 1 1 232 1
+20170224 2 2 380 1
+20170225 3 3 612 3
+20170226 2 2 380 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 2
+30s-2mn 2
+0s-30s 55
+30mn-1h 1
+1h+ 1
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 60 12492 55 53
+/kaha/web/datusers 23 9625 3 4
+/kaha/web/jadwals 14 27406 3 5
+/kaha/ 3 2026 2 1
+/kaha/web/jadwals/1 2 496 0 0
+END_SIDER

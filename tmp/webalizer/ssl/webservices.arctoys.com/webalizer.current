@@ -1,0 +1,150 @@
+# Webalizer V2.23-05 Incremental Data - 01/04/2017 13:59:40
+2017 1 4 13 59 40
+8 8 2 7 3 2 4511 2 1 0
+2 1 7 4 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+8 8 4511 2 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+7 7 4511 2
+0 0 0 0
+1 1 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/_autoindex/icons/html.png
+0 1 32958352 1197 0 0
+/_autoindex/icons/up.png
+0 1 32958112 1139 0 0
+/botTelegram/cekPeserta.php
+0 2 32958480 0 0 0
+/_autoindex/icons/blank.png
+0 1 32957648 171 0 0
+/botTelegram/
+0 1 32958000 469 0 0
+/
+0 1 32957072 421 1 0
+/_autoindex/icons/folder.png
+0 1 32957872 1114 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ip-84-12.infokom.net
+0 7 7 4511 1 1483528743
+/botTelegram/
+149.154.167.164
+0 1 1 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ip-84-12.infokom.net
+0 7 7 4511 1 1483528743
+/botTelegram/
+149.154.167.164
+0 1 1 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://webservices.arctoys.com/
+0 3
+https://webservices.arctoys.com/botTelegram/
+0 3
+- (Direct Request)
+0 2
+# End Of Table - referrers
+# -agents- 
+TelegramBot (like TwitterBot)
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:50.0) Gecko/20100101 Firefox/50.0
+0 7
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

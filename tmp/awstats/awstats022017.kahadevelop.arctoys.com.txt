@@ -1,0 +1,728 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201702 will be lost/reset.
+# Last config file used to build this data file was /home/arctoysc/tmp/awstats/awstats.kahadevelop.arctoys.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2701                
+POS_VISITOR 27347               
+POS_DAY 29738               
+POS_DOMAIN 3563                
+POS_LOGIN 3884                
+POS_ROBOT 4039                
+POS_WORMS 4351                
+POS_EMAILSENDER 4482                
+POS_EMAILRECEIVER 4625                
+POS_SESSION 30278               
+POS_SIDER 30487               
+POS_FILETYPES 4760                
+POS_DOWNLOADS 5097                
+POS_OS 5145                
+POS_BROWSER 5344                
+POS_SCREENSIZE 5897                
+POS_UNKNOWNREFERER 5971                
+POS_UNKNOWNREFERERBROWSER 6117                
+POS_ORIGIN 6258                
+POS_SEREFERRALS 6401                
+POS_PAGEREFS 6556                
+POS_SEARCHWORDS 6763                
+POS_KEYWORDS 6915                
+POS_MISC 2363                
+POS_ERRORS 6974                
+POS_CLUSTER 3740                
+POS_SIDER_404 7147                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170224104556 63 15993 12152972235005
+FirstTime 20170201021614
+LastTime 20170224104554
+LastUpdate 20170224191158 63 0 63 0 0
+TotalVisits 120                 
+TotalUnique 54                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 57                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 424 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 122 1326 1798543 44 79 429977
+1 72 286 7730260 30 70 184708
+2 8 15 179690 15 32 387702
+3 12 32 775276 4 11 18563
+4 0 0 0 0 0 0
+5 1 43 4262559 9 12 38559
+6 0 0 0 0 0 0
+7 10 78 4632615 13 16 54602
+8 217 637 8190165 9 80 219103
+9 319 2579 26459329 76 156 520209
+10 270 3205 74551373 43 230 815190
+11 170 1824 12620328 21 37 91493
+12 18 220 8178400 11 19 48383
+13 154 1237 38461669 36 104 264438
+14 262 3572 96912266 52 247 1281937
+15 226 2437 22166809 73 171 477322
+16 120 876 28977777 56 230 678812
+17 12 259 6737108 5 19 50374
+18 10 105 28407 6 6 18631
+19 159 2320 21780334 48 294 874911
+20 332 3718 69417294 286 550 1861918
+21 518 6435 103157416 121 605 1731952
+22 330 3895 52813430 203 497 4662742
+23 113 1082 2398640 58 98 1248319
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+id 3414 35927 583597224
+us 33 207 6527336
+gb 4 4 28246
+nl 1 5 1065750
+ro 1 1 1703
+ru 1 36 1005892
+at 1 1 3537
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+google[_+\s]web[_+\s]preview 60 3394232 20170207221052 0
+bot[\s_+:,\.\;\/\\-] 16 38056 20170221125808 10
+php 9 1539 20170214211230 0
+[\s_+:,\.\;\/\\-]bot 1 593472 20170210141843 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+png 886 91235507 0 0
+php 49 296945 0 0
+Unknown 1429 5399850 0 0
+woff2 196 1352100 0 0
+js 15449 74793227 0 0
+map 134 10187980 0 0
+woff 92 991856 0 0
+jpg 6130 284442712 0 0
+gif 207 78440 0 0
+ttf 720 82378288 0 0
+css 10048 34865468 0 0
+html 835 5835737 0 0
+jpeg 6 371578 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+win8 8 1
+winnt 6491 428
+ios_iphone 588 56
+Unknown 3 3
+win7 14801 1700
+macosx 6042 425
+linux 12 12
+win8.1 7820 790
+linuxandroid 416 40
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+firefox50.0 2959 778
+chrome51.0.2704.79 96 5
+firefox52.0 164 13
+chrome56.0.2924.87 2154 180
+chrome55.11.2883.75 88 40
+safari10.0.1 49 2
+chrome31.0.1650.57 8 1
+android 321 26
+safari10.0.2 60 4
+chrome49.0.2623.75 12 12
+safari8.0 12 12
+chrome46.0.2490.76 45 5
+safari10.0.3 3983 325
+chrome56.0.2924.76 2854 154
+opera12.16 28 0
+msie10.0 6 6
+firefox49.0 296 16
+chrome53.0.2785.113 1 1
+safari10.0 544 50
+Unknown 3 3
+firefox51.0 6183 507
+safari9.0 44 6
+chrome54.12.2840.71 734 56
+chrome55.0.2883.87 15537 1253
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+request.js 20170206151826
+WhatsApp/2.17.1/i 20170206222256
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+request.js 20170206151826
+WhatsApp/2.17.1/i 20170206222256
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1113 1121
+From1 0 0
+From2 1 1
+From3 7 7
+From4 2334 35052
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://l.facebook.com 6 6
+http://l.facebook.com/l.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+405 2 6325
+500 125 3268639
+403 32 97826
+400 2 6436
+404 2625 8297300
+302 5 0
+206 30 65564
+301 8 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 289
+/web/assets/kaha/images/kaha.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/laporanpemesananpeswat 3 -
+/site/assets/kaha/css/icomoon.css 2 http://kahadevelop.arctoys.com/site/registrasi
+/site/assets/kaha/assets/kaha/js/modernizr-2.6.2.min.js 1 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/assets/kaha/sass/bootstrap/_grid.scss 4 -
+/site/assets/kaha/js/modernizr-2.6.2.min.js 3 http://kahadevelop.arctoys.com/site/registrasi
+/user/ 1 http://kahadevelop.arctoys.com/laporanpemesananhotel
+/site/site/booking 1 http://kahadevelop.arctoys.com/site/flight
+/assets/kaha/sass/style.scss 3 -
+/assets/kaha/sass/bootstrap/_variables.scss 6 -
+/site/assets/kaha/js/jquery.easing.1.3.js 4 http://kahadevelop.arctoys.com/site/registrasi
+/_formfilter/ 1 http://kahadevelop.arctoys.com/laporanpemesananhotel
+/site/assets/kaha/js/jquery.waypoints.min.js 4 http://kahadevelop.arctoys.com/site/registrasi
+/datpemesananhotel/datpemesananhotel 1 http://kahadevelop.arctoys.com/laporanpemesananhotel
+/assets/kaha/sass/bootstrap/mixins/_vendor-prefixes.scss 6 -
+/site/datuser 1 -
+/site/assets/kaha/assets/kaha/js/bootstrap.min.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/site/assets/kaha/images/kaha.jpg 13 http://kahadevelop.arctoys.com/site/index-backend.php
+/datpemesananhotel/datpesanhotel 17 http://kahadevelop.arctoys.com/laporanpemesananhotel/
+/assets/kaha/sass/bootstrap/_popovers.scss 3 -
+/laporanpemesananpesawat.php 1 http://kahadevelop.arctoys.com/laporanpemesananhotel
+/assets/kaha/sass/bootstrap/mixins/_alerts.scss 4 -
+/assetskaha/images/place-6.jpg 1 http://kahadevelop.arctoys.com/site/index
+/assets/struktur/js/jquery/ui-lightness/jquery-ui-1.10.2.custom.css 8 http://kahadevelop.arctoys.com/datuser
+/refkereta/refkereta 2 http://kahadevelop.arctoys.com/refkereta/create
+/site/assets/kaha/assets/kaha/js/jquery.waypoints.min.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/assets/kaha/sass/bootstrap/mixins/_table-row.scss 4 -
+/datuser 1 -
+/datpemesanan/assets/kaha/images/kaha.jpg 3 http://kahadevelop.arctoys.com/datpemesanan/create
+/web/ws/Datuser 1 -
+/site/assets/kaha/images/img_bg_1.jpg 7 http://kahadevelop.arctoys.com/site/index
+/assets/kaha/sass/bootstrap/mixins/_grid.scss 4 -
+/ws/Datuser 1 -
+/assets/kaha/sass/bootstrap/mixins/_panels.scss 3 -
+/web/assets/kaha/images/place-7.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/url(assets/kaha/partner.jpg) 1 http://kahadevelop.arctoys.com/
+/assets/kaha/sass/bootstrap/_breadcrumbs.scss 4 -
+/site/assets/kaha/assets/kaha/css/magnific-popup.css 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/assets/kaha/css/fonts/icomoon.ttf 73 http://kahadevelop.arctoys.com/
+/assets/assets/kaha/js/jquery.min.js 2 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/datpemesanan/index.php 1 http://kahadevelop.arctoys.com/datpemesanan/create
+/assets/kaha/sass/bootstrap/mixins/_progress-bar.scss 4 -
+/assetskaha/images/place-9.jpg 1 http://kahadevelop.arctoys.com/site/index
+/jadwal-sidang/rincian 5 -
+/assetskaha/images/place-2.jpg 1 http://kahadevelop.arctoys.com/site/index
+/assetskaha/images/place-7.jpg 1 http://kahadevelop.arctoys.com/site/index
+/assets/kaha/sass/bootstrap/_buttons.scss 4 -
+/assets/kaha/sass/bootstrap/mixins/_labels.scss 4 -
+/ws/datuser 1 -
+/assetskaha/images/place-4.jpg 1 http://kahadevelop.arctoys.com/site/index
+/assets/kaha/sass/bootstrap/_scaffolding.scss 4 -
+/site/index.php 12 http://kahadevelop.arctoys.com/site/error.php
+/assets/kaha/sass/bootstrap/mixins/_list-group.scss 4 -
+/assets/assets/kaha/js/jquery.magnific-popup.min.js 3 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/pemesananhotel 1 -
+/site/profil 2 -
+/assets/kaha/sass/bootstrap/_badges.scss 4 -
+/assets/kaha/images/bg.jpg 1 http://kahadevelop.arctoys.com/
+/assets/kaha/sass/bootstrap/_utilities.scss 3 -
+/site/assets/kaha/assets/kaha/css/bootstrap.css 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/site/assets/kaha/images/assets/kaha/images/kaha.jpg 1 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/datpemesanan 7 http://kahadevelop.arctoys.com/datpemesanan
+/assets/kaha/sass/bootstrap/_component-animations.scss 5 -
+/site/assets/kaha/js/selectFx.js 4 http://kahadevelop.arctoys.com/site/registrasi
+/assets/assets/kaha/js/jquery.waypoints.min.js 4 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/laporanpemesananhotel/detailpesanhotel 7 http://kahadevelop.arctoys.com/laporanpemesananhotel
+/site/Datuser 3 -
+/site/assets/kaha/assets/kaha/js/classie.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/assets/kaha/sass/bootstrap/_navs.scss 4 -
+/site/assets/kaha/js/sticky.js 4 http://kahadevelop.arctoys.com/site/registrasi
+/assets/kaha/sass/bootstrap/mixins/_border-radius.scss 4 -
+/gii/default/preview 41 http://kahadevelop.arctoys.com/gii/crud
+/assets/kaha/sass/bootstrap/_close.scss 3 -
+/logo-unair.ico 1 http://kahadevelop.arctoys.com/site/index
+/site/assets/kaha/images/place-10.jpg 7 http://kahadevelop.arctoys.com/site/index
+/assets/kaha/sass/bootstrap/_button-groups.scss 4 -
+/assets/assets/kaha/js/jquery.stellar.min.js 4 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/site/contactus 4 -
+/assets/kaha/sass/bootstrap/_labels.scss 4 -
+/assets/kaha/sass/bootstrap/_thumbnails.scss 4 -
+/site/assets/kaha/js/superfish.js 4 http://kahadevelop.arctoys.com/site/registrasi
+/web/site/index 1 -
+/site/assets/kaha/images/place-9.jpg 7 http://kahadevelop.arctoys.com/site/index
+/assets/assets/kaha/js/classie.js 3 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/site/assets/kaha/assets/kaha/js/jquery.min.js 1 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/site/assets/kaha/css/bootstrap-datepicker.min.css 2 http://kahadevelop.arctoys.com/site/registrasi
+/assets/struktur/js/primitives.min.js 13 http://kahadevelop.arctoys.com/datuser
+/assets/assets/kaha/js/main.js 3 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/site/assets/kaha/images/place-4.jpg 7 http://kahadevelop.arctoys.com/site/index
+/assets/kaha/sass/bootstrap/mixins/_hide-text.scss 3 -
+/assets/kaha/sass/bootstrap/_responsive-embed.scss 3 -
+/index 11 http://kahadevelop.arctoys.com/
+/assets/kaha/css/fonts/icomoon.svg 58 http://kahadevelop.arctoys.com/
+/laporanpemesananhotel 12 -
+/assets/kaha/sass/bootstrap/_dropdowns.scss 4 -
+/flight.html 10 http://kahadevelop.arctoys.com/
+/assets/kaha/sass/bootstrap/mixins/_reset-text.scss 3 -
+/assets/kaha/sass/bootstrap/_normalize.scss 4 -
+/app/models/Datuser 1 -
+/assets/assets/kaha/js/superfish.js 3 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/assetskaha/images/place-5.jpg 1 http://kahadevelop.arctoys.com/site/index
+/assets/struktur/js/jquery/jquery-ui-1.10.2.custom.min.js 12 http://kahadevelop.arctoys.com/datuser
+/assets/assets/kaha/css/bootstrap.css 1 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/assets/kaha/sass/bootstrap/mixins/_text-overflow.scss 4 -
+/site/ 1 -
+/site/assets/kaha/assets/kaha/js/jquery.easing.1.3.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/site/flight.php 1 -
+/assetskaha/images/place-10.jpg 1 http://kahadevelop.arctoys.com/site/index
+/assets/kaha/sass/bootstrap/_wells.scss 3 -
+/assets/kaha/js/jquery.min.map 167 -
+/site/site/register 4 http://kahadevelop.arctoys.com/site/site/register
+/site/site/site/registrasi 1 http://kahadevelop.arctoys.com/site/site/index
+/web/assets/kaha/images/place-1.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/assets/kaha/fonts/themify.ttf 14 http://kahadevelop.arctoys.com/assets/kaha/css/cs-skin-border.css
+/assets/kaha/sass/bootstrap/mixins/_forms.scss 4 -
+/site/assets/kaha/assets/kaha/css/style.css 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/assets/kaha/sass/bootstrap/mixins/_gradients.scss 4 -
+/assets/assets/kaha/js/bootstrap.min.js 3 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/assets/kaha/images/Garuda-Indonesia.png 1 http://kahadevelop.arctoys.com/site/index
+/assets/assets/kaha/js/selectFx.js 3 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/datuser/assets/kaha/images/kaha.jpg 1 http://kahadevelop.arctoys.com/datuser/view
+/laporanpemesananhotel/view 2 http://kahadevelop.arctoys.com/laporanpemesananhotel
+/site/assets/kaha/assets/kaha/js/jquery.magnific-popup.min.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/assets/kaha/images/pesawat2.png 1 http://kahadevelop.arctoys.com/site/index
+/assets/kaha/sass/bootstrap/mixins/_reset-filter.scss 4 -
+/index-backend 1 -
+/site/assets/kaha/css/cs-select.css 2 http://kahadevelop.arctoys.com/site/registrasi
+/site/Datusers 1 -
+/assets/assets/kaha/css/style.css 2 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/site/assets/kaha/css/style.css 2 http://kahadevelop.arctoys.com/site/registrasi
+/datpemesananhotel/detpesanhotel 13 http://kahadevelop.arctoys.com/laporanpemesananhotel
+/web/assets/kaha/images/place-3.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/site/assets/kaha/assets/kaha/js/bootstrap-datepicker.min.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/site/assets/kaha/assets/kaha/css/superfish.css 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/site/assets/kaha/images/place-7.jpg 7 http://kahadevelop.arctoys.com/site/index
+/assets/datatables/media/js/jquery.dataTables.min.js 12 http://kahadevelop.arctoys.com/datuser
+/laporanpemesananhotel/datpesanhotel 5 http://kahadevelop.arctoys.com/laporanpemesananhotel/
+/site/assets/kaha/assets/kaha/js/superfish.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/site/hotel.html 2 http://kahadevelop.arctoys.com/site/error.php
+/site/assets/kaha/css/superfish.css 2 http://kahadevelop.arctoys.com/site/registrasi
+/assets/kaha/sass/bootstrap/mixins/_text-emphasis.scss 4 -
+/detailpemesananhotel/ 1 -
+/assets/kaha/sass/bootstrap/_list-group.scss 4 -
+/assets/kaha/sass/bootstrap/_jumbotron.scss 4 -
+/site/assets/kaha/css/magnific-popup.css 2 http://kahadevelop.arctoys.com/site/registrasi
+/ 39 -
+/web/assets/kaha/images/place-5.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/detailpemesananhotel 2 -
+/assets/kaha/sass/bootstrap/_carousel.scss 3 -
+/about.php 2 -
+/assets/assets/kaha/js/bootstrap-datepicker.min.js 3 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/site/vacation.html 1 http://kahadevelop.arctoys.com/site/index
+/laporanpemesananhotel/_formfilter/ 1 http://kahadevelop.arctoys.com/laporanpemesananhotel/
+/datpemesananhotel/LaporanPemesananHotel 3 http://kahadevelop.arctoys.com/laporanpemesananhotel
+/laporanpemesananhotel/jadwal-sidang/rincian 1 http://kahadevelop.arctoys.com/laporanpemesananhotel/
+/assets/kaha/sass/bootstrap/mixins/_opacity.scss 4 -
+/site/assets/kaha/images/place-2.jpg 7 http://kahadevelop.arctoys.com/site/index
+/site/assets/kaha/js/jquery.magnific-popup.min.js 3 http://kahadevelop.arctoys.com/site/registrasi
+/assets/struktur/css/primitives.latest.css 9 http://kahadevelop.arctoys.com/datuser
+/site/index-backend.php 2 -
+/rest/web/Datuser 1 -
+/site/flight.html 2 http://kahadevelop.arctoys.com/site/error.php
+/assets/assets/kaha/css/cs-skin-border.css 2 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/assets/kaha/sass/bootstrap/_panels.scss 3 -
+/site/assets/kaha/js/bootstrap-datepicker.min.js 3 http://kahadevelop.arctoys.com/site/registrasi
+/laporan/pesananhotel 1 -
+/site/assets/kaha/css/cs-skin-border.css 1 http://kahadevelop.arctoys.com/site/site/site/registrasi
+/assets/kaha/sass/bootstrap/_pagination.scss 4 -
+/site/assets/kaha/js/main.js 4 http://kahadevelop.arctoys.com/site/registrasi
+/assets/kaha/images/bg1.jpg 3 http://kahadevelop.arctoys.com/site/index
+/assetskaha/images/partner.jpg 1 http://kahadevelop.arctoys.com/site/index
+/api/web/v1/Datuser 1 -
+/web/assets/kaha/images/place-10.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/assets/kaha/images/s1nyal.png 1 http://kahadevelop.arctoys.com/
+/site/assets/kaha/assets/kaha/css/animate.css 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/assets/kaha/sass/bootstrap/mixins/_pagination.scss 4 -
+/laporanpemesananhotel.php 2 http://kahadevelop.arctoys.com/laporanpemesananpesawat
+/assets/kaha/sass/bootstrap/_tooltip.scss 3 -
+/site/assets/kaha/images/bg.jpg 3 http://kahadevelop.arctoys.com/site/index
+/datpesanhotel 3 -
+/assets/assets/kaha/css/superfish.css 2 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/site/assets/kaha/js/hoverIntent.js 4 http://kahadevelop.arctoys.com/site/registrasi
+/assets/kaha/sass/bootstrap/mixins/_nav-vertical-align.scss 4 -
+/assets/kaha/sass/bootstrap/mixins/_center-block.scss 3 -
+/site/assets/kaha/assets/kaha/js/selectFx.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/assets/assets/kaha/css/bootstrap-datepicker.min.css 2 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/Datuser 4 -
+/assets/kaha/sass/bootstrap/_navbar.scss 4 -
+/site/assets/kaha/assets/kaha/js/sticky.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/site/site/index 7 http://kahadevelop.arctoys.com/site/registrasi
+/assets/kaha/images/place4.png 2 http://kahadevelop.arctoys.com/
+/assetskaha/images/place-3.jpg 1 http://kahadevelop.arctoys.com/site/index
+/assets/assets/kaha/js/jquery.easing.1.3.js 3 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/web/site/ 1 -
+/assets/kaha/sass/bootstrap/_pager.scss 4 -
+/datpemesananhotel/viewdetail 2 http://kahadevelop.arctoys.com/laporanpemesananhotel
+/assets/kaha/sass/bootstrap/_input-groups.scss 4 -
+/site/assets/kaha/assets/kaha/css/icomoon.css 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/assets/kaha/sass/bootstrap/_print.scss 6 -
+/assets/kaha/images/img_bg_1.jpg 480 http://kahadevelop.arctoys.com/
+/assets/kaha/sass/bootstrap/mixins/_tab-focus.scss 4 -
+/hotel.html 11 http://kahadevelop.arctoys.com/
+/site/assets/kaha/assets/kaha/js/main.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/Datusers 1 -
+/assets/assets/kaha/css/animate.css 2 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/assets/assets/kaha/css/cs-select.css 2 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/phpmyadmin 4 -
+/assetskaha/images/place-8.jpg 1 http://kahadevelop.arctoys.com/site/index
+/site/contact-us 7 http://kahadevelop.arctoys.com/site/contact-us
+/assets/kaha/fonts/themify.woff 15 http://kahadevelop.arctoys.com/assets/kaha/css/cs-skin-border.css
+/registrasi 3 http://kahadevelop.arctoys.com/
+/web/assets/kaha/images/place-9.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/robots.txt 1 -
+/assets/kaha/assets/kaha/images/kaha.jpg 1 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/assets/kaha/sass/bootstrap/_responsive-utilities.scss 3 -
+/web/assets/kaha/images/place-6.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/site/assets/kaha/assets/kaha/css/cs-select.css 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/site/assets/kaha/images/place-8.jpg 7 http://kahadevelop.arctoys.com/site/index
+/assets/assets/kaha/js/hoverIntent.js 3 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/assetskaha/images/img_bg_1.jpg 1 http://kahadevelop.arctoys.com/site/index
+/site/assets/kaha/js/jquery.stellar.min.js 4 http://kahadevelop.arctoys.com/site/registrasi
+/web/assets/kaha/images/place-2.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/vacation.html 18 http://kahadevelop.arctoys.com/
+/refkereta/index.php 7 http://kahadevelop.arctoys.com/refkereta/index
+/datpemesananhotel/datpesananhotel 2 http://kahadevelop.arctoys.com/laporanpemesananhotel
+/assets/datatables/media/css/jquery.dataTables.min.css 9 http://kahadevelop.arctoys.com/datuser
+/site/site/registrasi 4 http://kahadevelop.arctoys.com/site/index
+/assets/kaha/sass/bootstrap/_forms.scss 4 -
+/assets/kaha/sass/bootstrap/mixins/_grid-framework.scss 4 -
+/assets/kaha/sass/bootstrap/_tables.scss 4 -
+/assets/kaha/sass/bootstrap/_media.scss 4 -
+/assets/kaha/images/pesawat4 34 http://kahadevelop.arctoys.com/
+/laporanpemesananhotel/_formfilter 4 http://kahadevelop.arctoys.com/laporanpemesananhotel/
+/site/assets/kaha/images/place-3.jpg 6 http://kahadevelop.arctoys.com/site/index
+/laporanpemesananhotel/datpemesananhotel/datpesanhotel 1 http://kahadevelop.arctoys.com/laporanpemesananhotel/
+/assets/kaha/partner.jpg 2 http://kahadevelop.arctoys.com/
+/assets/assets/kaha/css/magnific-popup.css 2 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/site/assets/kaha/css/bootstrap.css 2 http://kahadevelop.arctoys.com/site/registrasi
+/backend 1 -
+/site/assets/kaha/assets/kaha/js/hoverIntent.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/assets/assets/kaha/js/modernizr-2.6.2.min.js 2 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/site/assets/kaha/css/animate.css 2 http://kahadevelop.arctoys.com/site/registrasi
+/css/site.css 657 http://kahadevelop.arctoys.com/
+/web/assets/kaha/images/bg.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/assets/assets/kaha/images/kaha.jpg 1 http://kahadevelop.arctoys.com/assets/kaha/images/img_bg_1.jpg
+/assets/kaha/sass/bootstrap/mixins/_buttons.scss 4 -
+/site/assets/kaha/js/magnific-popup-options.js 4 http://kahadevelop.arctoys.com/site/registrasi
+/site/error.php 31 -
+/site/assets/kaha/assets/kaha/js/magnific-popup-options.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/site/assets/kaha/assets/kaha/css/cs-skin-border.css 1 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/assets/kaha/sass/bootstrap/_glyphicons.scss 4 -
+/assets/kaha/sass/bootstrap/_alerts.scss 4 -
+/web/assets/kaha/images/place-8.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/rest 1 -
+/site/assets/kaha/js/bootstrap.min.js 4 http://kahadevelop.arctoys.com/site/registrasi
+/assets/kaha/sass/bootstrap/_code.scss 4 -
+/assets/assets/kaha/js/magnific-popup-options.js 3 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/site/assets/kaha/js/classie.js 4 http://kahadevelop.arctoys.com/site/registrasi
+/web/assets/kaha/images/place-4.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/api/v1/Datuser 1 -
+/site/site/flight 3 http://kahadevelop.arctoys.com/site/index
+/cpnel 1 -
+/flight 2 http://kahadevelop.arctoys.com/
+/web/refkota 1 -
+/assets/assets/kaha/js/sticky.js 4 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/index-backend.php 3 -
+/site/assets/kaha/images/place-1.jpg 8 http://kahadevelop.arctoys.com/site/index
+/site/assets/kaha/assets/kaha/js/jquery.stellar.min.js 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/assets/kaha/sass/bootstrap/_type.scss 4 -
+/assets/kaha/sass/bootstrap/_modals.scss 3 -
+/web/Datuser 1 -
+/web/site/refkota 2 -
+/assets/kaha/sass/bootstrap/_progress-bars.scss 4 -
+/assets/kaha/sass/bootstrap/mixins/_background-variant.scss 4 -
+/site/assets/kaha/images/place-6.jpg 7 http://kahadevelop.arctoys.com/site/index
+/laporanpemesananhotel/create 5 http://kahadevelop.arctoys.com/laporanpemesananhotel
+/assets/assets/kaha/css/icomoon.css 2 http://kahadevelop.arctoys.com/assets/kaha/partner.jpg
+/assets/kaha/sass/bootstrap/mixins/_nav-divider.scss 4 -
+/assets/kaha/css/fonts/icomoon.woff 71 http://kahadevelop.arctoys.com/
+/assets/kaha/sass/bootstrap/mixins/_image.scss 4 -
+/site/assets/kaha/images/place-5.jpg 7 http://kahadevelop.arctoys.com/site/index
+/refkota/site/error.php 1 http://kahadevelop.arctoys.com/refkota/index
+/site/assets/kaha/assets/kaha/css/bootstrap-datepicker.min.css 2 http://kahadevelop.arctoys.com/site/assets/kaha/images/kaha.jpg
+/refkereta/assets/kaha/images/kaha.jpg 15 http://kahadevelop.arctoys.com/refkereta/create
+/web/assets/kaha/images/img_bg_1.jpg 3 http://kahadevelop.arctoys.com/web/index.php
+/assets/kaha/sass/bootstrap/mixins/_clearfix.scss 4 -
+/assets/kaha/sass/bootstrap/mixins/_responsive-visibility.scss 3 -
+/assetskaha/images/place-1.jpg 1 http://kahadevelop.arctoys.com/site/index
+/site/assets/kaha/js/jquery.min.js 4 http://kahadevelop.arctoys.com/site/registrasi
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 57
+210.57.215.134 799 2077 9136959 20170203093024
+210.57.215.114 732 11540 216306548 20170210144522
+180.247.129.34 722 9608 12048148 20170203002045
+36.73.243.157 327 3490 141210121 20170207222800
+210.57.215.238 219 3127 102593693 20170224091707
+202.80.217.161 204 2074 57565831 20170208224811
+36.78.110.86 187 1552 3020871 20170204031407
+115.178.251.67 36 107 9862208 20170207052833
+139.228.86.21 27 373 7301088 20170206222256
+36.76.118.17 27 646 3955442 20170206225736
+110.50.84.12 27 522 7446076 20170207112503
+36.82.82.157 18 19 658724 20170207012224
+36.74.1.236 16 19 78954 20170203230141
+52.71.155.178 12 12 37035 20170206164249
+114.125.120.163 9 57 53528 20170206202748
+168.235.201.237 9 183 6398689 20170208123634
+180.248.17.160 9 73 299883 20170204211028
+114.125.82.176 7 12 83156 20170202215647
+180.254.51.239 6 16 85061 20170209004448
+202.80.212.51 5 45 1065687 20170209215533
+185.20.99.141 4 4 28246 20170211224711
+36.81.96.61 4 5 452630 20170203193815
+114.125.101.93 4 276 2593032 20170201194431
+115.178.236.51 3 49 1889430 20170223134450
+66.102.7.19 3 3 23952 20170220101641
+114.125.104.74 0 1 770 
+64.233.172.128 1 1 6799 20170205115540
+115.178.235.249 1 1 7988 20170223175719
+114.125.85.166 1 1 6052 20170201221223
+114.125.85.198 1 1 7485 20170207125337
+114.125.100.164 2 2 2738 20170206203205
+66.102.7.132 1 1 7986 20170222163224
+188.166.191.61 1 5 1065750 20170207072246
+114.125.83.89 1 1 6025 20170201021614
+180.251.82.246 2 42 1344453 20170201215000
+114.125.102.182 0 1 770 
+114.125.104.229 2 2 13660 20170206203406
+114.125.81.210 1 1 7986 20170221212953
+66.102.7.17 1 1 7990 20170215201850
+37.204.105.36 0 28 846352 
+185.57.81.38 1 1 1703 20170205001142
+66.102.6.12 1 1 6084 20170202142731
+115.178.251.47 1 1 6096 20170203144716
+36.74.18.186 1 9 255190 20170201223423
+139.228.86.127 2 39 248032 20170218200429
+114.125.101.22 2 2 10148 20170204032438
+66.102.7.130 1 1 7986 20170224104554 20170224104554 /
+114.125.81.235 2 33 1265398 20170206151904
+178.255.153.77 1 1 3537 20170211094448
+66.102.6.10 1 1 6800 20170206121314
+114.125.74.12 2 22 736628 20170204032313
+176.14.207.97 1 8 159540 20170207023014
+66.102.7.21 2 2 16025 20170218085631
+66.249.88.32 1 1 7990 20170207221045
+114.125.80.77 2 2 7987 20170209230511
+114.125.80.166 1 42 805329 20170221143730
+114.125.116.145 2 37 1157419 20170201133600
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20170201 194 2351 67007961 15
+20170202 1627 15191 137299331 12
+20170203 232 1878 53037870 17
+20170204 169 1493 3932994 6
+20170205 6 63 1508972 3
+20170206 217 3366 58680287 22
+20170207 437 4715 184061090 17
+20170208 393 5116 76865211 5
+20170209 145 1652 3834846 5
+20170210 6 15 495422 3
+20170211 2 2 11521 2
+20170213 1 1 8039 1
+20170215 1 1 7990 1
+20170218 3 40 256018 2
+20170220 1 1 7986 1
+20170221 2 43 813315 2
+20170222 1 1 7986 1
+20170223 7 191 1921376 3
+20170224 11 61 2471473 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 10
+2mn-5mn 8
+0s-30s 59
+1h+ 18
+30mn-1h 11
+15mn-30mn 4
+5mn-15mn 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 67
+/ 809 5780764 80 39
+/assets/kaha/fonts/icomoon/icomoon.ttf 720 82378288 3 27
+/site/index 198 1382573 14 12
+/site/flight 168 462282 1 2
+/gii/crud 139 522807 0 0
+/datpemesanan 131 434793 0 0
+/gii/model 131 594592 0 1
+/site/registrasi 129 531995 5 3
+/assets/kaha/fonts/bootstrap/glyphicons-halflings-regular.woff2 118 991540 0 5
+/laporanpemesananhotel 92 145890 2 3
+/assets/kaha/fonts/icomoon/icomoon.woff 88 898160 0 0
+/assets/7635c85c/fonts/glyphicons-halflings-regular.woff2 78 360560 1 3
+/refkota 55 154047 2 0
+/assets/7635c85c/css/bootstrap.css.map 48 7785740 0 2
+/index.php 45 272694 4 6
+/assets/kaha/css/style.css.map 43 696000 1 0
+/assets/kaha/css/bootstrap.css.map 43 1706240 0 1
+/site/booking 36 139628 0 0
+/refkota/index 30 88697 0 0
+/gii/controller 29 81974 0 0
+/datakartu 28 75676 1 0
+/datuser 24 65266 0 0
+/refkereta/create 23 71110 2 1
+/laporanpemesananhotel/ 21 35016 0 0
+/gii/form 19 53867 0 0
+/gii/module 16 33876 0 0
+/assets/7635c85c/fonts/glyphicons-halflings-regular.woff 2 46848 0 0
+/ws/datuser 1 25729 0 0
+/refkereta 18 53430 0 1
+/refkereta/index 9 27331 0 0
+/refmaskapai 3 9182 0 0
+/datakartu/create 2 5806 0 0
+/detailpesanhotel/view 1 1288 0 0
+/detailpesanhotel 1 1731 0 0
+/ws/Datuser 3 77131 0 0
+/refpropinsi/update/00 4 6670 1 2
+/assets/kaha/fonts/bootstrap/glyphicons-halflings-regular.woff 2 46848 0 1
+/gii/extension 11 36541 0 0
+/detailangkutan 2 7055 0 0
+/web/index.php 4 24251 0 1
+/datpemesananhotel 7 10864 0 2
+/datpemesananhotel/viewdetail 10 13056 0 3
+/gii/ 1 1433 0 0
+/refhotel 5 11026 0 0
+/site/profil 8 33949 0 0
+/refkota/create 1 1698 0 1
+/datpemesananhotel/view 4 5323 0 0
+/index.php/ 3 18524 0 0
+/refpropinsi/update/01 3 4999 0 0
+/datpemesanan/index 6 20297 0 0
+/datuser/view 3 10052 0 0
+/refkota/0001 1 1225 0 0
+/gii 14 20115 2 1
+/refpropinsi/01 1 1239 0 0
+/refpropinsi/create 7 11303 0 0
+/gii/default/preview 1 955 0 0
+/datpemesanan/create 17 72465 0 0
+/site/contact-us 5 17346 0 0
+/refpropinsi/00 4 4869 0 0
+/refpropinsi/index 3 7674 0 0
+/flight.html 1 0 1 1
+/datpemesananhotel/index 3 5322 0 0
+/datpemesananhotel/create 1 2082 0 0
+/refkamar 4 9303 0 1
+/datuser/index 1 3735 0 0
+/refpropinsi 12 33735 0 0
+/laporanpemesananpesawat 5 6251 0 0
+END_SIDER

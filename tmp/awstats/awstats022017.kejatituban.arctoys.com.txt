@@ -1,0 +1,385 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201702 will be lost/reset.
+# Last config file used to build this data file was /home/arctoysc/tmp/awstats/awstats.kejatituban.arctoys.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2693                
+POS_VISITOR 7920                
+POS_DAY 9345                
+POS_DOMAIN 3350                
+POS_LOGIN 3649                
+POS_ROBOT 3804                
+POS_WORMS 3981                
+POS_EMAILSENDER 4112                
+POS_EMAILRECEIVER 4255                
+POS_SESSION 9797                
+POS_SIDER 10003               
+POS_FILETYPES 4390                
+POS_DOWNLOADS 4641                
+POS_OS 4689                
+POS_BROWSER 4865                
+POS_SCREENSIZE 5222                
+POS_UNKNOWNREFERER 5296                
+POS_UNKNOWNREFERERBROWSER 5383                
+POS_ORIGIN 5465                
+POS_SEREFERRALS 5602                
+POS_PAGEREFS 5757                
+POS_SEARCHWORDS 5905                
+POS_KEYWORDS 6057                
+POS_MISC 2357                
+POS_ERRORS 6116                
+POS_CLUSTER 3505                
+POS_SIDER_404 6254                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170225183703 4 456 9286769549681
+FirstTime 20170201102747
+LastTime 20170225183703
+LastUpdate 20170225191204 4 0 4 0 0
+TotalVisits 51                  
+TotalUnique 33                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 33                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 1238 0 0 0
+1 8 37 676955 2 3 1147
+2 1 1 1843 0 1 1148
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 23 63 1962653 4 9 2295
+8 80 231 2903051 14 22 6902
+9 27 41 564396 0 0 0
+10 47 88 1034636 2 12 184202
+11 48 63 626279 3 7 2294
+12 6 31 522927 2 3 1147
+13 2 2 4523 0 0 0
+14 27 81 1457174 4 9 3441
+15 34 68 638156 4 14 10397
+16 56 146 1564975 13 82 330923
+17 33 392 3127886 3 4 64665
+18 5 17 510273 0 0 0
+19 0 0 0 0 1 0
+20 58 429 9846123 5 42 72379
+21 31 44 390915 1 2 0
+22 46 101 1006766 6 9 2294
+23 1 1 2417 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+id 510 1765 25182339
+us 17 42 827665
+ru 4 27 827033
+ro 1 1 2153
+gb 1 1 1843
+ca 1 1 2153
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+bot[\s_+:,\.\;\/\\-] 1 1236 20170205172124 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+map 2 781036 0 0
+eot 1 20127 0 0
+js 671 18925118 0 0
+woff2 8 126196 0 0
+html 153 272193 0 0
+gif 3 3431 0 0
+css 509 2723093 0 0
+Unknown 370 816700 0 0
+png 117 3094427 0 0
+jpg 3 80865 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+win7 963 307
+linuxandroid 28 3
+winnt 103 38
+macosx 550 78
+win8.1 141 92
+winxp 13 1
+ios_iphone 28 4
+linux 11 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+chrome31.0.1650.63 1 1
+chrome55.25.2883.75 106 63
+chrome56.0.2924.76 90 35
+safari8.0 31 7
+msie10.0 3 3
+msie8.0 13 2
+chrome49.0.2623.75 11 11
+firefox52.0 222 85
+firefox50.0 63 48
+chrome56.0.2924.87 481 108
+firefox51.0 676 131
+android 28 3
+chrome28.0.1500.95 13 1
+safari10.0.3 82 33
+chrome55.11.2883.75 17 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 76 76
+From1 0 0
+From2 3 3
+From3 0 0
+From4 455 1758
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+206 2 179149
+301 24 25234
+302 25 0
+500 7 371471
+404 91 106144
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 17
+/jadwal-sidang/siltslider/siltslider/css/demo.css 8 http://kejatituban.arctoys.com/jadwal-sidang/
+/jadwal-sidang/siltslider/siltslider/css/style.css 8 http://kejatituban.arctoys.com/jadwal-sidang/
+/jadwal-sidang/kejarituban.arctoys.com/jadwal-sidang/assets/slider/slider/img/background.jpg 1 http://kejatituban.arctoys.com/jadwal-sidang/
+/jadwal-sidang/site/slider 1 -
+/jadwal-sidang/siltslider/siltslider/js/modernizr.custom.79639.js 7 http://kejatituban.arctoys.com/jadwal-sidang/
+/jadwal-sidang/css/full-slider.css 2 http://kejatituban.arctoys.com/jadwal-sidang/
+/robots.txt 4 -
+/jadwal-sidang/js/bootstrap.min.js 1 http://kejatituban.arctoys.com/jadwal-sidang/
+/jadwal-sidang/js/jquery.js 1 http://kejatituban.arctoys.com/jadwal-sidang/
+/jadwal-sidang/foto/nganggur1.png.png 16 http://kejatituban.arctoys.com/jadwal-sidang/struktur
+/jadwal-sidang/assets/slider/slider/css/bootstrap.min.css.map 2 -
+/jadwal-sidang/siltslider/siltslider/jquery.slitslider.js 14 http://kejatituban.arctoys.com/jadwal-sidang/
+/slider.php 2 -
+/jadwal-sidang/siltslider/siltslider/js/jquery.ba-cond.min.js 13 http://kejatituban.arctoys.com/jadwal-sidang/
+/jadwal-sidang/site/slider.php 1 -
+/jadwal-sidang/siltslider/siltslider/css/custom.css 8 http://kejatituban.arctoys.com/jadwal-sidang/
+/jadwal-sidang/css/bootstrap.min.css 2 http://kejatituban.arctoys.com/jadwal-sidang/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 33
+210.57.215.134 114 186 2785353 20170224155511
+110.50.84.12 102 241 1359173 20170213161501
+210.57.215.114 78 560 5131548 20170223174840
+36.73.243.157 55 75 630149 20170207221844
+110.138.221.49 37 66 510875 20170201123220
+36.81.190.130 37 363 8305882 20170223205948
+36.74.18.186 23 63 435144 20170201230112
+114.125.81.187 18 55 1674340 20170211074901
+36.74.0.49 12 27 551647 20170201221215
+36.78.110.86 8 37 676955 20170204012101
+114.125.81.51 7 16 670342 20170211084455
+114.125.81.31 5 28 482901 20170211085355
+114.125.81.227 5 10 478828 20170211090454
+114.125.81.11 3 6 289129 20170211091332
+52.71.155.178 3 3 4900 20170202180659
+168.235.201.237 3 28 807227 20170222205456
+114.125.83.142 3 27 1007721 20170202180709
+66.102.7.165 2 2 3423 20170224104553
+46.242.79.221 2 13 322585 20170207213045
+114.125.100.164 2 4 191113 20170206203214
+66.102.7.163 2 2 2517 20170223140751
+66.102.6.88 2 2 2523 20170206075459
+66.102.6.27 1 1 1283 20170205115541
+66.102.7.167 1 1 1993 20170222163224
+66.102.6.86 1 1 1237 20170203151017
+114.125.102.202 1 1 1239 20170207220736
+66.102.6.25 1 1 1281 20170205115540
+192.95.20.138 1 1 2153 20170225082548
+185.20.99.141 1 1 1843 20170212025022
+188.234.40.16 1 1 1238 20170207003319
+185.57.81.38 1 1 2153 20170225183703 20170225183703 /jadwal-sidang/
+37.144.52.89 1 13 503210 20170207083239
+66.102.6.87 1 1 1281 20170206075459
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20170201 72 156 1497666 4
+20170202 58 111 1647418 7
+20170203 4 14 156340 2
+20170204 8 37 676955 1
+20170205 2 2 2564 2
+20170206 4 6 193676 3
+20170207 60 103 1458421 5
+20170210 133 321 1967055 4
+20170211 38 115 3595540 6
+20170212 1 1 1843 1
+20170213 2 2 3918 2
+20170215 1 1 1235 1
+20170218 1 1 1282 1
+20170222 35 80 1829051 3
+20170223 97 864 13693594 5
+20170224 16 21 112322 2
+20170225 2 2 4306 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 3
+0s-30s 29
+5mn-15mn 3
+15mn-30mn 4
+2mn-5mn 4
+30mn-1h 5
+1h+ 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 48
+/jadwal-sidang/ 103 185639 36 19
+/jadwal-sidang/upaya-hukum 82 193858 1 3
+/jadwal-sidang/view-jadwal-sidang 33 62064 0 0
+/jadwal-sidang/backend/ 29 67840 1 4
+/jadwal-sidang/tahanan/biodata 22 38585 0 1
+/jadwal-sidang/site/profil 18 36961 4 3
+/jadwal-sidang/site/login 17 29149 0 1
+/jadwal-sidang/foto/ 16 9427 0 0
+/jadwal-sidang/struktur 16 26064 0 0
+/jadwal-sidang/daftar-tahanan 15 27974 0 0
+/jadwal-sidang/view-rekapitulasi 15 34278 1 5
+/jadwal-sidang/upaya-hukum/rincian 13 37853 1 3
+/jadwal-sidang/jadwal-sidang 12 27464 1 2
+/jadwal-sidang/page-info 12 16149 0 1
+/jadwal-sidang/spdp 12 26968 0 0
+/jadwal-sidang/tahanan/pasal-dakwaan 11 26519 0 0
+/jadwal-sidang/rincian-sidang 9 16509 1 1
+/jadwal-sidang/assets/3ec09c6a/fonts/glyphicons-halflings-regular.woff2 8 126196 0 0
+/jadwal-sidang/tahanan/pasal-dilanggar 8 18994 0 0
+/jadwal-sidang/tahanan 8 19306 0 0
+/jadwal-sidang/informasi 7 15929 0 0
+/jadwal-sidang/berkas-pertama 7 15292 4 1
+/jadwal-sidang/jadwal-sidang/update 6 19917 0 0
+/jadwal-sidang/jadwal-sidang/view 5 8770 0 0
+/jadwal-sidang/jadwal-sidang/rincian 5 10677 0 0
+/jadwal-sidang/user 1 2798 0 0
+/jadwal-sidang/assets/3ec09c6a/css/bootstrap.css.map 2 781036 0 0
+/jadwal-sidang/berkas-pertama/create 4 12769 0 1
+/jadwal-sidang/jadwal-sidang/index 1 2364 0 0
+/jadwal-sidang/informasi/update/2 1 2738 0 1
+/jadwal-sidang/sel/create 3 5783 0 0
+/jadwal-sidang/penentuan-perkara 4 9084 1 0
+/jadwal-sidang/sel/index 2 9722 0 0
+/jadwal-sidang/penentuan-perkara/create 1 3059 0 0
+/basic/ 1 776 0 0
+/jadwal-sidang/sel 4 19393 0 0
+/jadwal-sidang/user/create 1 2687 0 0
+/jadwal-sidang/informasi/2 1 1793 0 0
+/jadwal-sidang/tahanan/create 1 2369 0 0
+/jadwal-sidang/jadwal-sidang/create 1 3218 0 0
+/basic/web/ 1 1303 0 1
+/jadwal-sidang/tahanan/pasal-terbukti 5 11821 0 1
+/jadwal-sidang/user/ 3 7208 0 0
+/jadwal-sidang/spdp/create 1 2913 0 1
+/jadwal-sidang/detail-penentuan 3 6848 0 0
+/jadwal-sidang/user/index 1 2802 0 0
+/jadwal-sidang/informasi/create 2 5259 0 0
+/jadwal-sidang/assets/3ec09c6a/fonts/glyphicons-halflings-regular.eot 1 20127 0 1
+END_SIDER

@@ -1,0 +1,192 @@
+# Webalizer V2.23-05 Incremental Data - 02/15/2017 06:30:21
+2017 2 15 6 30 21
+68 36 10 12 4 2 195384 42 10 0
+4 2 18 5 15
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 0 4592 3 1 1
+0 0 0 0 0 0
+59 35 185725 5 39 7
+1 1 475 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 0 4592 4 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 0 2296 0
+2 0 2296 1
+0 0 0 0
+1 1 475 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 0 3444 1
+0 0 0 0
+4 3 2869 2
+13 9 154613 5
+18 9 15784 10
+18 11 8110 18
+3 3 905 3
+0 0 0 0
+2 0 2296 0
+2 0 2296 1
+0 0 0 0
+0 0 0 0
+0
+0
+0
+36
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+26
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+# -urls- 
+/_autoindex/icons/html.png
+0 2 7814716426037852777 2394 0 0
+/kaha/web/assets/a3a5d6b0/css/bootstrap.css
+0 1 0 28339 0 0
+/_autoindex/icons/up.png
+0 2 0 2278 0 0
+/_autoindex/icons/unknown.png
+0 2 0 2140 0 0
+/_autoindex/icons/blank.png
+0 2 0 342 0 0
+/kaha/web/assets/a3a5d6b0/js/bootstrap.js
+0 1 0 18562 0 0
+/kaha/web/css/site.css
+0 1 0 770 0 0
+/kaha/web/assets/a629e92f/jquery.js
+0 1 0 93367 0 0
+/kaha/web/datusers
+0 18 0 7770 4 3
+/_autoindex/icons/folder.png
+0 2 0 2228 0 0
+/kaha/
+0 3 0 2026 1 2
+/kaha/web/assets/3fa0e905/yii.js
+0 1 0 5647 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-71-19.googlebot.com
+0 2 0 2296 1 1487140154
+-
+crawl-66-249-66-87.googlebot.com
+0 1 0 1148 0 0
+-
+ip-84-12.infokom.net
+0 56 36 181608 7 1486543365
+/kaha/web/datusers
+crawl-66-249-79-97.googlebot.com
+0 1 0 1148 0 0
+-
+crawl-66-249-71-78.googlebot.com
+0 1 0 1148 0 0
+-
+crawl-66-249-66-90.googlebot.com
+0 1 0 1148 0 0
+-
+crawl-66-249-71-21.googlebot.com
+0 2 0 2296 1 1486503425
+-
+crawl-66-249-79-101.googlebot.com
+0 1 0 1148 0 0
+-
+crawl-66-249-79-98.googlebot.com
+0 2 0 2296 0 0
+-
+crawl-66-249-71-76.googlebot.com
+0 1 0 1148 1 1486312888
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-71-19.googlebot.com
+0 1 0 1148 1 1487140154
+-
+crawl-66-249-66-87.googlebot.com
+0 1 0 1148 0 0
+-
+crawl-66-249-66-90.googlebot.com
+0 1 0 1148 0 0
+-
+crawl-66-249-71-21.googlebot.com
+0 1 0 1148 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 51
+https://arctoys.com/kaha/web/
+0 5
+https://arctoys.com/kaha/
+0 11
+https://arctoys.com/kaha/web/sites
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 12
+Mozilla/5.0 (Windows NT 6.1; rv:51.0) Gecko/20100101 Firefox/51.0
+0 56
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
